@@ -85,7 +85,6 @@ app.layout = html.Div([
         ], id='button-container', style={'textAlign': 'center'}),
     ]),
 
-    # Qui mettiamo i dropdown fuori dalla callback, fissi, affiancati al box info
     html.Div([
         html.Div([
             html.H4("Come leggere la mappa"),
