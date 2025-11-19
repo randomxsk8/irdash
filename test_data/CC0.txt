@@ -1,0 +1,6 @@
+CC0 1.0 Universal (CC0 1.0)
+Public Domain Dedication
+
+To the extent possible under law, the authors have dedicated the test data in this folder (/test_data) to the public domain by waiving all rights to the data worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and use the test data, even for commercial purposes, without asking permission.
