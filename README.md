@@ -46,6 +46,8 @@ Core packages:
 - Dash ≥ 3.0.4
 - Plotly ≥ 6.0.0
 - Pandas
+- GeoPandas
+- Shapely
 
 ---
 
@@ -54,5 +56,4 @@ Core packages:
 **Code License:** MIT License (see `LICENSE`).
 
 **Test Data License:** All test datasets in `/test_data` are released under CC0 1.0 Universal (Public Domain Dedication).
-- GeoPandas
-- Shapely
+
