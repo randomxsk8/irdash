@@ -1,199 +1,199 @@
-ID	Institution	Contributor	Region	Province	GID_2	Municipality	Site (urban peri-urban, rural)	Private/Public area	Longitude Masked	Latitude Masked	Sampling Year	Sampling Month	Sampling Method	Stage	N specimens genotyped (locus 1016)	N VV	N VG	N GG	G%	N specimens genotyped (locus 1534)	N FF	N FC	N CC	C%	CLC 18 Categories	CLC 18 %	ERA5 - Mean 2m Temperature 2024	POP21 ISTAT
-1	IZSAM	Di Domenico	Abruzzo	Pescara	ITA.1.1_1	Pescara	Urban	Private	14.175	42.425	2024	July	BG-Sentinel	Field Adult	30	17	13	0	0.217	30	30	0	0	0	121, 242, 243	87.9, 10.4, 1.8	17.36	33
-2	IZSAM	Di Domenico	Abruzzo	Chieti	ITA.1.1_1	San Giovanni Teatino	Urban	Public	14.2	42.425	2024	June	Ovitrap	Laboratory Adult	16	14	2	0	0.062	16	16	0	0	0	223	100	17.36	67
-3	IZSAM	Di Domenico	Abruzzo	Chieti	ITA.1.1_1	San Salvo	Urban	Public	14.725	42.05	2024	May	Ovitrap	Laboratory Adult	16	16	0	0	0	16	16	0	0	0	111, 112, 242	57.7, 39.5, 2.9	17.39	2036
-4	IZSAM	Di Domenico	Abruzzo	L'Aquila	ITA.1.2_1	L'Aquila	Urban	Public	13.35	42.375	2024	June	Ovitrap	Laboratory Adult	30	22	8	0	0.133	30	30	0	0	0	121, 2111	30.0, 70.0	11.91	8
-5	IZSAM	Di Domenico	Abruzzo	Teramo	ITA.1.4_1	Teramo	Urban	Private	13.7	42.65	2024	July	BG-Sentinel	Field Adult	30	25	5	0	0.083	30	30	0	0	0	111, 243, 3112	49.6, 42.7, 7.7	15.6	639
-6	IZSLER	ELENA CARRA	Lombardia	Bergamo	ITA.10.1_1	Bergamo	Urban	Public	9.7	45.675	2024	August	CDC-CO2	Field Adult	32	28	4	0	0.062	32	32	0	0	0	112, 121, 2111	10.9, 59.7, 29.4	12.09	144
-7	IZSLER	ELENA CARRA	Lombardia	Lecco	ITA.10.10_1	Merate	Peri-urban	Public	8.725	45.075	2024	August	CDC-CO2	Field Adult	31	27	4	0	0.065	23	23	0	0	0	213, 213	95.3, 4.7	14.79	1
-8	IZSLER	ELENA CARRA	Lombardia	Pavia	ITA.10.10_1	Stradella	Peri-urban	Public	9.32500000000001	45.075	2024	August	CDC-CO2	Field Adult	32	32	0	0	0	29	29	0	0	0	112, 2111, 221	0.4, 75.6, 24.1	14.1	2
-9	IZSLER	ELENA CARRA	Lombardia	Sondrio	ITA.10.11_1	Sondrio	Rural	Public	9.875	46.175	2024	August	CDC-CO2	Field Adult	32	28	4	0	0.062	32	32	0	0	0	2111, 3113	99.0, 1.0	4.83	5
-10	IZSLER	ELENA CARRA	Lombardia	Varese	ITA.10.12_1	Malpensa	Peri-urban	Public	8.725	45.625	2024	July	CDC-CO2	Field Adult	32	31	1	0	0.016	27	27	0	0	0	124	100	14.27	0
-11	IZSLER	ELENA CARRA	Lombardia	Brescia	ITA.10.2_1	Brescia	Urban	Public	10.175	45.525	2024	August	CDC-CO2	Field Adult	32	21	3	8	0.297	33	33	0	0	0	121, 2111	56.7, 43.3	14.49	164
-12	IZSLER	ELENA CARRA	Lombardia	Como	ITA.10.3_1	Cermenate	Urban	Public	9.075	45.7	2024	July	CDC-CO2	Field Adult	32	32	0	0	0	31	31	0	0	0	112, 2111	54.2, 45.8	13.86	611
-13	IZSLER	ELENA CARRA	Lombardia	Milano	ITA.10.5_1	Milano	Peri-urban	Public	9.425	45.675	2024	August	CDC-CO2	Field Adult	35	34	1	0	0.014	33	33	0	0	0	121, 2111	0.5, 99.5	13.2	9
-14	IZSLER	ELENA CARRA	Lombardia	Lodi	ITA.10.6_1	Caselle Landi	Urban	Public	9.775	45.125	2024	July	CDC-CO2	Field Adult	31	27	3	1	0.081	23	23	0	0	0	2111	100	14.53	85
-15	IZSLER	ELENA CARRA	Lombardia	Mantova	ITA.10.7_1	Poggio Rusco	Peri-urban	Public	11.1	44.975	2024	July	CDC-CO2	Field Adult	30	28	2	0	0.033	30	30	0	0	0	2111	100	15.27	142
-16	IZSLER	ELENA CARRA	lombardia	Monza Brianza	ITA.10.8_1	Limbiate	Urban	Public	9.125	45.575	2024	August	CDC-CO2	Field Adult	32	29	2	1	0.062	31	31	0	0	0	112, 121, 242	2.4, 33.4, 64.3	14.92	381
-17	IZS UM	Gavaudan/Favia/Racciati	Marche	Ancona	ITA.11.1_1	Marzocca	Urban	Public	13.29	43.68	2024	June-October	NA	Field Adult	16	16	0	0	0.000	16	16	0	0	0	112, 2111, 242	89.1, 0.1, 10.8	10.19	1654
-18	IZS UM	Gavaudan/Favia/Racciati	Marche	Ancona	ITA.11.1_1	Scapezzano	Rural	Public	13.16	43.73	2024	June-July	NA	Field Adult	14	14	0	0	0.000	14	14	0	0	0	2111, 242	19.4, 80.6	10.19	29
-19	IZS UM	Gavaudan/Favia/Racciati	Marche	Macerata	ITA.11.2_1	Tolentino	Peri-Urban	Public	13.34	43.22	2024	June-October	NA	Field Adult	14	13	0	1	0.071	14	0	0	0	0	121, 242	31.7, 68.3	6.00	10
-20	IZS UM	Gavaudan/Favia/Racciati	Marche	Macerata	ITA.11.2_1	Porto Recanati	Peri-Urban	Public	13.66	43.42	2024	July-September	NA	Field Adult	15	15	0	0	0.000	15	0	0	0	0	112, 2111, 2111, 324	51.3, 28.1, 6.6, 13.9	19.12	1028
-21	IZS UM	Gavaudan/Favia/Racciati	Marche	Ascoli Piceno	ITA.11.4_1	San Benedetto del Tronto	Urban	Public	13.89	42.93	2024	June-October	NA	Field Adult	30	29	0	1	0.03	30	0	0	0	0	112, 331, 523	68.4, 19.0, 12.7	22.33	435
-22	IZS UM	Gavaudan/Favia/Racciati	Marche	Pesaro	ITA.11.5_1	Fano	Rural	Public	13.03	43.81	2024	June-September	NA	Field Adult	15	12	1	2	0.167	15	15	0	0	0	2111	100	16.89	18
-23	IZS UM	Gavaudan/Favia/Racciati	Marche	Pesaro	ITA.11.5_1	Fano	Urban	Public	13.02	43.83	2024	October	NA	Field Adult	15	12	2	1	0.133	15	15	0	0	0	112, 121, 2111	55.0, 41.3, 3.7	16.89	1225
-24	IZSAM	Di Domenico	Molise	Campobasso	ITA.12.1_1	Campobasso	Urban	Private	14.65	41.575	2024	July	Ovitrap	Laboratory Adult	16	9	7	0	0.219	16	16	0	0	0	111, 112, 243	58.1, 5.7, 36.2	14.6	1827
-25	IZSAM	Di Domenico	Molise	Campobasso	ITA.12.1_1	Termoli	Urban	Public	15	42	2024	September	CDC Light Trap	Field Adult	16	6	10	0	0.312	16	16	0	0	0	112, 112, 2111	7.8, 67.0, 25.1	18.2	531
-26	IZSAM	Di Domenico	Molise	Isernia	ITA.12.2_1	Isernia	Urban	Private	14.2	41.575	2024	September	Ovitrap	Laboratory Adult	32	20	12	0	0.188	32	32	0	0	0	242, 3112	57.3, 42.7	14.09	81
-27	IZSPLV	CORONA	Piemonte	Alessandria	ITA.13.1_1	Rivalta Scrivia	Peri-Urban	Public	8.8	44.875	2024	August	Ovitrap	Adult	30	30	0	0	0	30	30	0	0	0	121	100	13.93	0
-28	IZSPLV	CORONA	Piemonte	Asti	ITA.13.2_1	Asti	Rural	Public	8.125	44.95	2024	August	CDC-CO2	Adult	8	8	0	0	0	8	8	0	0	0	142, 2111	14.1, 85.9	13.5	16
-29	IZSPLV	CORONA	Piemonte	Biella	ITA.13.3_1	Lessona	Rural	Public	8.2	45.575	2024	August	CDC-CO2	Adult	12	12	0	0	0	12	12	0	0	0	112, 242, 3112, 3113	67.0, 11.3, 0.1, 21.5	13.35	271
-30	IZSPLV	CORONA	Piemonte	Cuneo	ITA.13.4_1	Alba	Urban	Public	8.025	44.7	2024	August	CDC-CO2	Adult	30	26	4	0	0.067	30	30	0	0	0	112, 121, 2111	83.4, 16.2, 0.4	13.9	221
-31	IZSPLV	CORONA	Piemonte	Novara	ITA.13.5_1	Novara	Peri-Urban	Public	8.65	45.475	2024	September	BG-lure-CO2	Adult	27	27	0	0	0	27	27	0	0	0	121, 122	49.3, 50.7	14.27	4
-32	IZSPLV	CORONA	Piemonte	Torino	ITA.13.6_1	Caselle	Peri-Urban	Public	7.65	45.2	2024	September	Ovitrap	Adult	30	30	0	0	0	30	30	0	0	0	124, 2111	83.9, 16.1	13.52	15
-33	IZSPLV	CORONA	Piemonte	Verbania	ITA.13.7_1	Verbania	Urban	Public	8.55	45.925	2024	August	BG-lure-CO2	Adult	28	27	1	0	0.018	28	28	0	0	0	111, 112, 112, 512	63.2, 10.6, 19.3, 6.9	10.91	1266
-34	IZSPLV	CORONA	Piemonte	Vercelli	ITA.13.8_1	Vercelli	Urban	Public	8.425	45.3	2024	August	Larval Dip	Adult	30	30	0	0	0	30	30	0	0	0	121, 124, 213, 242	49.2, 1.8, 42.6, 6.4	14.04	20
-35	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Cagliari	ITA.14.1_1	Uta	Rural	Private	8.95	39.275	2024	July	CDC Light Trap	Field Adult	9	9	0	0	0	9	9	0	0	0	2111	100	18.13	2
-36	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Cagliari	ITA.14.1_1	Capoterra	Rural	Private	9	39.125	2024	October	CDC Light Trap	Field Adult	4	4	0	0	0	4	4	0	0	0	2111, 242, 242, 243	85.5, 0.6, 5.2, 8.6	18.13	8
-37	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Cagliari	ITA.14.1_1	Cagliari	Urban	Public	9.1	39.225	2024	October	BG-Sentinel	Field Adult	14	13	1	0	0.036	14	14	0	0	0	111, 112	45.5, 54.5	18.13	1855
-38	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Cagliari	ITA.14.1_1	Cagliari	Peri-Urban	Public	9.15	39.2	2024	September	BG-Sentinel	Field Adult	3	3	0	0	0	3	3	0	0	0	112, 142	99.1, 0.9	18.47	1204
-39	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Sud Sardegna	ITA.14.2_1	Iglesias	Rural	Private	8.575	39.325	2024	June	CDC Light Trap	Field Adult	2	2	0	0	0	1	1	0	0	0	242, 3232	31.8, 68.2	18.7	14
-40	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Sud Sardegna	ITA.14.3_1	San Gavino	Urban	Private	8.8	39.55	2024	July	BG-Sentinel	Field Adult	28	26	2	0	0.036	28	28	0	0	0	112, 2111, 223	75.7, 22.1, 2.2	17.69	894
-41	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Nuoro	ITA.14.4_1	Nuoro	Peri-Urban	Public	9.32500000000001	40.325	2024	July	BG-Sentinel	Field Adult	5	5	0	0	0	5	5	0	0	0	112, 141, 3232	51.7, 41.6, 6.7	15.25	829
-42	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Nuoro	ITA.14.4_1	Dorgali	Rural	Private	9.575	40.3	2024	July	CDC Light Trap	Field Adult	8	8	0	0	0	8	8	0	0	0	243	100	16.24	4
-43	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Nuoro	ITA.14.4_1	Siniscola	Rural	Private	9.65	40.575	2024	July	CDC Light Trap	Field Adult	7	7	0	0	0	7	7	0	0	0	231, 3232	46.5, 53.5	18.08	0
-44	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Nuoro	ITA.14.4_1	Orosei	Rural	Private	9.725	40.4	2024	July	CDC Light Trap	Field Adult	4	4	0	0	0	4	4	0	0	0	243, 3232	61.8, 38.2	18.08	2
-45	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Nuoro	ITA.14.4_1	Posada	Rural	Private	9.75	40.625	2024	July	CDC Light Trap	Field Adult	5	5	0	0	0	5	5	0	0	0	242, 421	62.3, 37.7	18.1	1
-46	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Nuoro	ITA.14.5_1	Bari Sardo	Rural	Private	9.625	39.95	2024	July	CDC Light Trap	Field Adult	1	1	0	0	0	1	1	0	0	0	2111, 3231	98.1, 1.9	15.58	4
-47	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Sassari	ITA.14.6_1	Olbia	Peri-Urban	Public	9.525	40.925	2024	July	BG-Sentinel	Field Adult	1	0	1	0	0.5	1	1	0	0	0	123, 523	61.7, 38.3	17.91	18
-48	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Sassari	ITA.14.6_1	Olbia	Peri-Urban	Private	9.55	40.925	2024	July	BG-Sentinel	Field Adult	1	1	0	0	0	1	1	0	0	0	121, 123, 3232, 523	5.4, 83.1, 7.4, 4.1	17.91	3
-49	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Oristano	ITA.14.7_1	Oristano	Rural	Private	8.5	39.9	2024	July	BG-Sentinel	Field Adult	9	9	0	0	0	9	9	0	0	0	3232, 521, 523	76.3, 5.9, 17.8	17.83	1
-50	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Oristano	ITA.14.7_1	Cabras	Urban	Private	8.525	39.925	2024	July	CDC Light Trap	Field Adult	4	4	0	0	0	3	3	0	0	0	112, 213, 521	70.4, 0.6, 28.9	17.83	360
-51	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Oristano	ITA.14.7_1	Oristano	Urban	Private	8.525	39.9	2024	July	BG-Sentinel	Field Adult	8	4	2	2	0.375	6	6	0	0	0	112, 2111, 3121, 3232, 523	56.6, 9.7, 22.2, 1.3, 10.2	17.83	207
-52	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Oristano	ITA.14.7_1	Oristano	Urban	Private	8.6	39.9	2024	July	BG-Sentinel	Field Adult	9	7	2	0	0.111	9	9	0	0	0	112, 121, 242	53.9, 15.0, 31.1	17.83	423
-53	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Sassari	ITA.14.8_1	Stintino	Rural	Private	8.25	40.875	2024	July	CDC Light Trap	Field Adult	1	1	0	0	0	1	1	0	0	0	2111, 242, 243	46.0, 52.4, 1.6	18.49	15
-54	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Sassari	ITA.14.8_1	Alghero	Peri-Urban	Public	8.3	40.625	2024	July	Ovitrap	Field Adult	2	2	0	0	0	2	2	0	0	0	124, 2111	81.2, 18.8	18.49	3
-55	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Sassari	ITA.14.8_1	Alghero	Rural	Private	8.35	40.575	2024	July	CDC Light Trap	Field Adult	5	5	0	0	0	5	5	0	0	0	2111, 223	92.0, 8.0	18.26	14
-56	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Sassari	ITA.14.8_1	Sorso	Rural	Private	8.5	40.8	2024	July	CDC Light Trap	Field Adult	8	8	0	0	0	8	8	0	0	0	2111, 242, 421	98.2, 1.5, 0.3	17.29	8
-57	IZS della Sardegna	C. Foxi / L. Ruiu	Sardegna	Sassari	ITA.14.8_1	Sassari	Peri-Urban	Private	8.55	40.7	2024	June	BG-Sentinel	Field Adult	12	12	0	0	0	12	12	0	0	0	112, 243, 3116	29.2, 59.1, 11.7	17.29	67
-58	IZS Sicilia	F. Vitale	Sicilia	Agrigento	ITA.15.1_1	Villaggio Mosè	Peri-urban (horse stable)	Private	13.625	37.275	2024	June	Bg Sentinel Trap	Adult	30	18	3	9	0.35	20	20	0	0	0	112, 2111, 223, 241	34.5, 39.5, 18.0, 8.0	19.14	160
-59	IZS Sicilia	F. Vitale	Sicilia	Caltanissetta	ITA.15.2_1	San Cataldo	Rural (kennel)	Public	13.975	37.55	2024	June	Bg Sentinel Trap	Adult	24	17	4	3	0.208	14	11	2	1	0.143	2111	100	16.97	0
-60	IZS Sicilia	F. Vitale	Sicilia	Catania	ITA.15.3_1	Catania	Peri-urban (airport)	Public	15.075	37.475	2024	May	Bg Sentinel Trap	Adult	19	11	1	7	0.395	13	13	0	0	0	121, 124	14.0, 86.0	19.24	9
-61	IZS Sicilia	F. Vitale	Sicilia	Enna	ITA.15.4_1	Leonforte	Rural (horse stable)	Private	14.4	37.625	2024	July	Bg Sentinel Trap	Adult	21	16	3	2	0.167	16	15	1	0	0.031	2111, 243	50.8, 49.2	17.93	3
-62	IZS Sicilia	F. Vitale	Sicilia	Messina	ITA.15.5_1	Milazzo	Rural (horse stable)	Private	15.25	38.175	2024	June	Bg Sentinel Trap	Adult	21	11	3	7	0.405	12	11	1	0	0.042	242	100	19.17	78
-63	IZS Sicilia	F. Vitale	Sicilia	Palermo	ITA.15.6_1	Terrasini	Rural (horse stable)	Private	13.1	38.1	2024	July	Bg Sentinel Trap	Adult	25	15	3	7	0.34	26	26	0	0	0	142, 241	0.0, 100.0	19	19
-64	IZS Sicilia	F. Vitale	Sicilia	Ragusa	ITA.15.7_1	Comiso	Peri-urban (airport)	Public	14.6	37	2024	May	Bg Sentinel Trap	Adult	26	19	3	4	0.212	19	17	1	1	0.079	124, 2111	96.3, 3.7	18.64	1
-65	IZS Sicilia	F. Vitale	Sicilia	Siracusa	ITA.15.8_1	Avola	Rural (horse stable)	Private	15.15	36.95	2024	July	Bg Sentinel Trap	Adult	25	20	3	2	0.14	18	18	0	0	0	222, 3212	66.9, 33.1	19.76	2
-66	IZS Sicilia	F. Vitale	Sicilia	Trapani	ITA.15.9_1	Trapani	Peri-urban (port)	Public	12.5	38.025	2024	June	Bg Sentinel Trap	Adult	27	18	3	6	0.278	20	20	0	0	0	111, 123, 523	15.8, 40.7, 43.5	19.39	734
-67	IZSLT	Valeria Carioti	Toscana	Arezzo	ITA.16.1_1	Pratovecchio	Rural	Private	11.725	43.775	2023	June	Reared Larvae	Laboratory Adult	22	22	0	0	0	5	5	0	0	0	112, 121, 242, 243, 3114	64.1, 34.8, 0.7, 0.2, 0.2	13.05	769
-68	IZSLT	Valeria Carioti	Toscana	Arezzo	ITA.16.1_1	Arezzo	Rural	Private	11.775	43.45	2024	September	CDC Light Trap	Field Adult	2	2	0	0	0	10	10	0	0	NA	223, 243, 3112, 3131	0.2, 55.7, 44.1, 0.0	14.15	3
-69	IZSLT	Valeria Carioti	Toscana	Arezzo	ITA.16.1_1	Arezzo	Urban	Public	11.875	43.475	2023	October	BG-Sentinel	Field Adult	3	2	0	1	0.333	NA	NA	NA	NA	NA	111, 112	68.0, 32.0	13.85	1741
-70	IZSLT	Valeria Carioti	Toscana	Siena	ITA.16.10_1	Castellina_in_Chianti	Rural	Private	11.275	43.425	2023	July	CDC Light Trap	Field Adult	4	4	0	0	0	2	2	0	0	0	2111	100	14.94	1
-71	IZSLT	Valeria Carioti	Toscana	Siena	ITA.16.10_1	Siena	Urban	Public	11.325	43.3	2023	October	Aspirators	Field Adult	17	17	0	0	0	11	11	0	0	0	112, 242, 242, 243	23.6, 40.4, 3.0, 33.0	15.17	62
-72	IZSLT	Valeria Carioti	Toscana	Siena	ITA.16.10_1	Siena	Urban	Public	11.325	43.35	2023	September	Aspirators	Field Adult	14	14	0	0	0	0	0	0	0	0	112, 2111, 242, 242	56.7, 41.5, 1.8, 0.0	15.17	954
-73	IZSLT	Valeria Carioti	Toscana	Siena	ITA.16.10_1	Siena	Urban	Public	11.35	43.325	2023	September	Aspirators	Field Adult	1	1	0	0	0	NA	NA	NA	NA	NA	112, 112, 121, 242, 243	0.7, 25.7, 31.3, 12.8, 29.5	15.17	591
-74	IZSLT	Valeria Carioti	Toscana	Siena	ITA.16.10_1	Siena	Urban	Public	11.375	43.3	2023	August	Reared Larvae	Laboratory Adult	2	2	0	0	0	8	8	0	0	0	122, 221, 242, 242	55.0, 4.5, 17.3, 23.2	15.17	148
-75	IZSLT	Valeria Carioti	Toscana	Firenze	ITA.16.2_1	Fucecchio	Rural	Private	10.775	43.725	2023	June	CDC Light Trap	Field Adult	15	14	1	0	0.033	9	9	0	0	0	2111, 242	68.2, 31.8	15.37	26
-76	IZSLT	Valeria Carioti	Toscana	Firenze	ITA.16.2_1	Campi Bisenzio	Rural	Private	11.15	43.825	2023	August	CDC Light Trap	Field Adult	5	2	2	1	0.4	6	6	0	0	0	112, 2111	17.2, 82.8	14.77	520
-77	IZSLT	Valeria Carioti	Toscana	Firenze	ITA.16.2_1	Firenze	Urban	Public	11.275	43.75	2023	August	Aspirators	Field Adult	4	4	0	0	0	11	11	0	0	0	112, 223, 242	35.8, 60.4, 3.8	14.77	110
-78	IZSLT	Valeria Carioti	Toscana	Firenze	ITA.16.2_1	Bagno a Ripoli	Rural	Private	11.3	43.725	2023	September	CDC Light Trap	Field Adult	11	10	1	0	0.045	4	4	0	0	0	223, 243	1.9, 98.1	14.77	30
-79	IZSLT	Valeria Carioti	Toscana	Grosseto	ITA.16.3_1	Castiglione della Pescaia	Rural	Private	10.9	42.775	2023	June	CDC Light Trap	Field Adult	2	2	0	0	0	2	2	0	0	0	2111, 411	78.4, 21.6	17.62	3
-80	IZSLT	Valeria Carioti	Toscana	Grosseto	ITA.16.3_1	Grosseto	Urban	Public	11.1	42.775	2023	July	Reared Larvae	Laboratory Adult	21	15	6	0	0.143	7	7	0	0	0	111, 122	94.9, 5.1	17.62	2259
-81	IZSLT	Ilaria Congiu	Toscana	Grosseto	ITA.16.3_1	Orbetello	Rural	Public	11.2	42.475	2023	June	CDC Light Trap	Field Adult	5	4	0	1	0.2	NA	NA	NA	NA	NA	2111	100	17.59	4
-82	IZSLT	Valeria Carioti	Toscana	Grosseto	ITA.16.3_1	Capalbio	Rural	Public	11.375	42.4	2023	June	CDC Light Trap	Field Adult	7	7	0	0	0	5	5	0	0	0	112, 2111, 421, 521	0.0, 58.5, 21.2, 20.3	17.05	5
-83	IZSLT	Valeria Carioti	Toscana	Grosseto	ITA.16.3_1	Cingiano	Rural	Private	11.425	42.95	2023	May	CDC Light Trap	Field Adult	1	1	0	0	0	1	1	0	0	0	2111	100	15.72	2
-84	IZSLT	Valeria Carioti	Toscana	Grosseto	ITA.16.3_1	Manciano	Rural	Private	11.525	42.5	2023	June	CDC Light Trap	Field Adult	2	2	0	0	0	2	2	0	0	0	231, 3112	96.1, 3.9	17.05	0
-85	IZSLT	Valeria Carioti	Toscana	Livorno	ITA.16.4_1	Piombino	Urban	Public	10.525	42.925	2023	August	Reared Larvae	Laboratory Adult	51	47	4	0	0.039	46	46	0	0	0	111, 523	97.8, 2.2	17.89	3986
-86	IZSLT	Valeria Carioti	Toscana	Livorno	ITA.16.4_1	Castagneto_carducci	Rural	Private	10.55	43.175	2023	July	CDC Light Trap	Field Adult	1	1	0	0	0	NA	NA	NA	NA	NA	112, 2111, 3121	65.7, 10.1, 24.2	17.28	83
-87	IZSLT	Valeria Carioti	Toscana	Lucca	ITA.16.5_1	Camaiore	Rural	Private	10.25	43.925	2023	July	CDC Light Trap	Laboratory Adult	10	8	2	0	0.1	11	11	0	0	0	2111, 242	82.2, 17.8	15.22	60
-88	IZSLT	Valeria Carioti	Toscana	Lucca	ITA.16.5_1	Barga	Urban	Public	10.475	44.075	2023	August	BG-Sentinel	Field Adult	37	37	0	0	0	11	11	0	0	0	112, 242, 3116, 3117	9.6, 36.5, 29.7, 24.2	13.5	122
-89	IZSLT	Valeria Carioti	Toscana	Pistoia	ITA.16.5_1	Chiesina_uzzanese	Rural	Private	10.725	43.85	2023	August	CDC Light Trap	Field Adult	2	2	0	0	0	NA	NA	NA	NA	NA	2111	100	15.37	114
-90	IZSLT	Valeria Carioti	Toscana	Massa	ITA.16.6_1	Montignoso	Rural	Private	10.15	44	2023	July	CDC Light Trap	Field Adult	49	49	0	0	0	19	19	0	0	0	112, 242	40.1, 59.9	15.22	322
-91	IZSLT	Valeria Carioti	Toscana	Pisa	ITA.16.7_1	San Giuliano Terme	Rural	Private	10.325	43.75	2023	July	CDC Light Trap	Field Adult	58	56	2	0	0.017	30	30	0	0	0	2111, 3121	53.3, 46.7	16.92	2
-92	IZSLT	Valeria Carioti	Toscana	Pistoia	ITA.16.8_1	Pistoia	Urban	Public	10.9	43.925	2023	October	Aspirators	Field Adult	50	50	0	0	0	5	0	0	0	0	122, 2111, 222	37.5, 18.1, 44.4	13.42	69
-93	IZSLT	Valeria Carioti	Toscana	Prato	ITA.16.9_1	Prato 	Rural	Private	11.1	43.95	2023	July	CDC Light Trap	Field Adult	1	1	0	0	0	NA	NA	NA	NA	NA	223, 3132, 3132, 3132	82.6, 5.8, 9.9, 1.7	13.42	10
-94	IZSVe	Federica Gobbo	Trentino-Alto Adige	Bolzano	ITA.17.1_1	Terlano	Rural	Private	11.25	46.55	2024	July	BG-Sentinel	Field Adult	40	40	0	0	0	34	34	0	0	0	112, 222	22.1, 77.9	10.43	257
-95	IZSVe	Federica Gobbo	Trentino-Alto Adige	Trentino	ITA.17.2_1	Mezzolombardo	Rural	Public	11.075	46.225	2024	August	Larval Dip	Field Adult	18	15	3	0	0.083	4	4	0	0	0	111, 112, 221, 3113	17.0, 52.1, 3.7, 27.2	7.21	1304
-96	IZSVe	Federica Gobbo	Trentino-Alto Adige	Trentino	ITA.17.2_1	Mezzolombardo	Rural	Public	11.1	46.2	2024	August	Larval Dip	Field Adult	30	29	1	0	0.017	3	3	0	0	0	111, 112, 3113, 3131	2.7, 51.8, 2.2, 43.3	7.21	819
-97	Perugia. DIP. DI PREVENZIONE USL 1	Perugia. DIP. DI PREVENZIONE USL 1	Umbria	Perugia	ITA.18.1_1	Perugia	Urban	Public	12.4	43.125	2024	September	NA	Field Adult	20	20	0	0	0	21	16	4	1	0.143	112, 223	51.3, 48.7	14.9	180
-98	Perugia. AEROPORTO SAN FRANCESCO	Perugia. AEROPORTO SAN FRANCESCO	Umbria	Perugia	ITA.18.1_1	Perugia	Peri-Urban	Public	12.5	43.1	2024	September	NA	Field Adult	13	9	0	4	0.308	12	8	4	0	0.167	124, 2111	6.2, 93.8	15.16	9
-99	I.Z.S. Sezione Di Terni 	I.Z.S. Sezione Di Terni 	Umbria	Terni	ITA.18.2_1	Terni	Urban	Public	12.625	42.575	2024	September	NA	Field Adult	32	27	0	5	0.156	35	31	4	0	0.057	112, 242	70.1, 29.9	14.28	1016
-100	IZSPB	Parisi Antonio	Puglia	Bari	ITA.2.1_1	Molfetta 	Rural	Private	16.6	41.175	2024	September	NA	Adult	1	0	1	0	0.5	1	1	0	0	0	223	100	18.47	11
-101	IZSPB	Parisi Antonio	Puglia	Bari	ITA.2.1_1	Valenzano	Peri-Urban	Private	16.875	41.05	2024	June	NA	Adult	32	20	11	1	0.203	32	32	0	0	0	111	100	18	4645
-102	IZSPB	Parisi Antonio	Puglia	Bari	ITA.2.1_1	Mola di Bari	Rural	Private	17.075	41.05	2024	July	NA	Adult	1	1	0	0	0	1	1	0	0	0	112, 242	20.4, 79.6	18	415
-103	IZSPB	Parisi Antonio	Puglia	Barletta-Andria-Trani	ITA.2.2_1	Trinitapoli	Peri-Urban	Private	16.1	41.35	2024	July	NA	Adult	1	1	0	0	0	1	1	0	0	0	111, 242	94.2, 5.8	18.33	2168
-104	IZSPB	Parisi Antonio	Puglia	Barletta-Andria-Trani	ITA.2.2_1	Margherita di Savoia	Peri-Urban	Private	16.15	41.375	2024	October	NA	Adult	30	16	12	2	0.267	30	30	0	0	0	112, 523	88.8, 11.2	18.72	1674
-105	IZSPB	Parisi Antonio	Puglia	Brindisi	ITA.2.3_1	Brindisi	Urban	Private	17.95	40.625	2025	May	NA	Adult	10	5	4	1	0.3	10	10	0	0	0	111, 112, 123	67.6, 31.4, 1.0	19.09	1019
-106	IZSPB	Parisi Antonio	Puglia	Brindisi	ITA.2.3_1	Cellino San Marco	Urban	Private	17.975	40.475	2025	August	NA	Adult	2	2	0	0	0	2	2	0	0	0	111, 242	99.4, 0.6	18.94	991
-107	IZSPB	Parisi Antonio	Puglia	Brindisi	ITA.2.3_1	San Pietro Vernotico	Peri-Urban	Private	18	40.5	2025	July	NA	Adult	1	1	0	0	0	1	1	0	0	0	111, 112, 242	53.8, 44.2, 2.0	18.94	824
-108	IZSPB	Parisi Antonio	Puglia	Foggia	ITA.2.4_1	Serracapriola	Peri-Urban	Private	15.15	41.8	2024	October	NA	Adult	1	1	0	0	0	1	1	0	0	0	111, 223	93.3, 6.7	17.87	1500
-109	IZSPB	Parisi Antonio	Puglia	Foggia	ITA.2.4_1	Foggia	Urban	Private	15.55	41.45	2025	June	NA	Adult	1	0	1	0	0.5	1	1	0	0	0	111, 112	77.7, 22.3	17.97	2948
-110	IZSPB	Parisi Antonio	Puglia	Foggia	ITA.2.4_1	Cerignola	Urban	Private	15.9	41.275	2025	June	NA	Adult	1	0	1	0	0.5	1	1	0	0	0	111, 112	83.8, 16.2	18.33	3219
-111	IZSPB	Parisi Antonio	Puglia	Foggia	ITA.2.4_1	Vieste	Peri-Urban	Private	16.175	41.875	2024	August	NA	Adult	26	20	6	0	0.115	23	23	0	0	0	112	100	18.97	2746
-112	IZSPB	Parisi Antonio	Puglia	Lecce	ITA.2.5_1	Lecce	Urban	Private	18.175	40.35	2024	July	NA	Adult	30	19	11	0	0.183	30	30	0	0	0	111	100	18.95	1223
-113	IZSPB	Parisi Antonio	Puglia	Lecce	ITA.2.5_1	Calimera	Urban	Private	18.275	40.25	2024	October	NA	Adult	1	1	0	0	0	1	1	0	0	0	111	100	18.95	1064
-114	IZSPB	Parisi Antonio	Puglia	Taranto	ITA.2.6_1	Castellaneta	Peri-Urban	Private	16.95	40.625	2025	August	NA	Adult	1	0	1	0	0.5	1	1	0	0	0	112, 3231	91.9, 8.1	17.55	1996
-115	IZSPB	Parisi Antonio	Puglia	Taranto	ITA.2.6_1	Taranto	Urban	Private	17.25	40.475	2025	July	NA	Adult	2	2	0	0	0	2	2	0	0	0	111, 523	67.8, 32.2	18.47	2930
-116	IZSPB	Parisi Antonio	Puglia	Taranto	ITA.2.6_1	Taranto	Rural	Private	17.25	40.525	2024	July	NA	Adult	1	1	0	0	0	1	1	0	0	0	223, 231	83.6, 16.4	18.47	0
-117	IZSPB	Parisi Antonio	Puglia	Taranto	ITA.2.6_1	Taranto	Urban	Private	17.275	40.475	2025	May	NA	Adult	10	5	3	2	0.35	10	10	0	0	0	111, 112	98.9, 1.1	18.47	6481
-118	IZSPB	Parisi Antonio	Puglia	Taranto	ITA.2.6_1	Manduria	Rural	Private	17.625	40.425	2024	July	NA	Adult	1	1	0	0	0	1	1	0	0	0	223, 242	99.1, 0.9	18.81	3
-119	IZSPB	Parisi Antonio	Puglia	Taranto	ITA.2.6_1	Manduria	Urban	Private	17.625	40.4	2025	July	NA	Adult	5	5	0	0	0	5	5	0	0	0	111, 112	94.9, 5.1	18.81	1482
-120	UNISAP	Luana Violante	Puglia	Taranto	ITA.2.6_1	Taranto	Urban	Private	17.264812	40.462555	2024	August	Sticky Trap	Adult	26	23	3	0	0.058	14	13	1	0	0.071	18.47	111	100	5217
-121	UNISAP	Luana Violante	Puglia	Taranto	ITA.2.6_1	Taranto	Urban	Private	17.267645	40.433281	2024	August	Sticky Trap	Adult	14	10	4	0	0.143	23	21	0	0	0	18.47	112, 2111	48.2, 51.8	1557
-122	IZSVe	Federica Gobbo	Veneto	Belluno	ITA.20.1_1	Belluno	Rural	Public	12.2	46.15	2024	September	BG-Sentinel	Field Adult	30	30	0	0	0	29	29	0	0	0	112, 243	58.7, 41.3	7.83	209
-123	IZSVe	Federica Gobbo	Veneto	Padova	ITA.20.2_1	Legnaro	Rural	Public	11.95	45.35	2024	August	BG-Sentinel	Field Adult	30	26	4	0	0.067	29	29	0	0	0	112, 121, 2111	10.2, 51.4, 38.4	15.23	6
-124	IZSVe	Federica Gobbo	Veneto	Rovigo	ITA.20.3_1	Rovigo	Rural	Public	11.775	45.075	2024	September	CDC Light Trap	Field Adult	5	4	0	1	0.2	3	3	0	0	0	112, 2111	73.2, 26.8	15.17	1075
-125	IZSVe	Federica Gobbo	Veneto	Treviso	ITA.20.4_1	Treviso	Peri-Urban	Private	12.2	45.65	2024	July	BG-Sentinel	Field Adult	29	27	2	0	0.034	29	29	0	0	0	121, 124, 2111	20.3, 56.8, 22.9	14.85	34
-126	IZSVe	Federica Gobbo	Veneto	Venezia	ITA.20.5_1	Tessera	Peri-Urban	Private	12.325	45.5	2024	July	BG-Sentinel	Field Adult	30	30	0	0	0	20	20	0	0	0	124, 242, 242, 421, 521	66.1, 6.0, 15.7, 5.9, 6.2	15.71	2
-127	IZSVe	Federica Gobbo	Veneto	Verona	ITA.20.6_1	Sommacampagna	Peri-Urban	Private	10.9	45.4	2024	July	BG-Sentinel	Field Adult	30	26	3	1	0.083	30	30	0	0	0	124, 222, 124, 242	98.4, 0.0, 0.1, 1.5	13.99	0
-128	IZSVe	Federica Gobbo	Veneto	Vicenza	ITA.20.7_1	Marostica	Rural	Public	11.65	45.75	2024	July	Gravid Trap	Field Adult	21	20	1	0	0.024	9	9	0	0	0	112, 2111, 243	62.1, 1.1, 36.8	13.05	445
-129	IZSPB	Parisi Antonio	Basilicata	Matera	ITA.3.1_1	Matera	Urban	Private	16.6	40.675	2024	September	BG-Sentinel	Field Adult	29	26	3	0	0.052	29	29	0	0	0	111	100	17.11	2445
-130	IZSPB	Parisi Antonio	Basilicata	Potenza	ITA.3.2_1	Potenza	Urban	Private	15.8	40.65	2025	May	BG-Sentinel	Field Adult	10	7	3	0	0.15	10	10	0	0	0	111, 112	99.0, 1.0	14.58	3507
-131	IZSM	de Martinis	Calabria	Catanzaro	ITA.4.1_1	Lamezia Terme	NA	NA	16.3	38.975	2024	November	BG-Sentinel	Field Adult	2	2	0	0	0	2	2	0	0	0	111, 242	57.7, 42.3	16.72	1348
-132	IZSM	de Martinis	Calabria	Cosenza	ITA.4.2_1	Cetaro	NA	NA	15.95	39.5	2024	November	BG-Sentinel	Field Adult	5	4	1	0	0.1	5	5	0	0	0	112, 223, 242	13.9, 12.1, 74.0	17.68	149
-133	IZSM	de Martinis	Calabria	Cosenza	ITA.4.2_1	Fiumefreddo Bruzio	NA	NA	16.075	39.225	2024	October	BG-Sentinel	Field Adult	1	0	0	1	1	1	1	0	0	0	112, 242, 3112, 333	6.7, 41.6, 9.9, 41.8	18.2	59
-134	IZSM	de Martinis	Calabria	Cosenza	ITA.4.2_1	Roggiano Gravina	NA	NA	16.125	39.6	2024	November	BG-Sentinel	Field Adult	1	1	0	0	0	1	1	0	0	0	2111, 242	3.1, 96.9	17.68	44
-135	IZSM	de Martinis	Calabria	Cosenza	ITA.4.2_1	Rende	NA	NA	16.225	39.325	2024	November	BG-Sentinel	Field Adult	1	1	0	0	0	1	1	0	0	0	112, 112, 2111, 243	64.3, 1.4, 28.6, 5.7	15.49	520
-136	IZSM	de Martinis	Calabria	Cosenza	ITA.4.2_1	Rende	NA	NA	16.225	39.375	2024	November	BG-Sentinel	Field Adult	1	1	0	0	0	1	1	0	0	0	112, 2111, 242	36.4, 37.0, 26.6	15.49	346
-137	IZSM	de Martinis	Calabria	Cosenza	ITA.4.2_1	Dipignano	NA	NA	16.25	39.275	2024	November	BG-Sentinel	Field Adult	1	0	1	0	0.5	1	1	0	0	0	112, 223, 3112	66.1, 21.1, 12.8	15.49	343
-138	IZSM	de Martinis	Calabria	Cosenza	ITA.4.2_1	Cassano allo Ionio	NA	NA	16.475	39.75	2024	November	BG-Sentinel	Field Adult	2	1	0	1	0.5	2	2	0	0	0	2111, 242	68.0, 32.0	18.46	5
-139	IZSM	de Martinis	Calabria	Cosenza	ITA.4.2_1	Corigliano-Rossano	NA	NA	16.5	39.625	2024	October	BG-Sentinel	Field Adult	1	0	0	1	1	1	1	0	0	0	222, 223, 242	97.3, 0.1, 2.5	18.46	9
-140	IZSM	de Martinis	Calabria	Crotone	ITA.4.3_1	Rocca di Neto	NA	NA	17	39.175	2024	November	BG-Sentinel	Field Adult	1	0	1	0	0.5	1	1	0	0	0	121, 2111, 242, 242, 324, 331	30.0, 2.6, 31.3, 0.6, 18.7, 16.7	18.25	2
-141	IZSM	de Martinis	Calabria	Crotone	ITA.4.3_1	Crotone	NA	NA	17.1	39.125	2024	November	BG-Sentinel	Field Adult	1	1	0	0	0	1	1	0	0	0	121, 2111, 2111, 222, 242	31.1, 6.1, 4.4, 3.1, 55.3	18.25	32
-142	IZSM	de Martinis	Calabria	Crotone	ITA.4.3_1	Strongoli	NA	NA	17.125	39.225	2024	November	BG-Sentinel	Field Adult	1	0	1	0	0.5	1	1	0	0	0	2111, 2111, 222, 324	7.5, 50.2, 12.4, 29.8	20.06	1
-143	IZSM	de Martinis	Calabria	Crotone	ITA.4.3_1	Cirò Marina	NA	NA	17.15	39.4	2024	October	BG-Sentinel	Field Adult	1	1	0	0	0	1	1	0	0	0	2111, 3121, 331	43.3, 56.2, 0.5	20.05	1
-144	IZSM	de Martinis	Campania	Avellino	ITA.5.1_1	Mercogliano	NA	NA	14.75	40.925	2024	October	BG-Sentinel	Field Adult	28	12	1	15	0.554	28	28	0	0	0	111, 112, 222, 242	2.8, 25.1, 38.4, 33.8	16.19	463
-145	IZSM	de Martinis	Campania	Avellino	ITA.5.1_1	Grottolella	NA	NA	14.8	40.975	2024	October	BG-Sentinel	Field Adult	7	6	0	1	0.143	7	7	0	0	0	112, 222, 242, 243	12.5, 54.5, 1.5, 31.5	16.19	209
-146	IZSM	de Martinis	Campania	Benevento	ITA.5.2_1	Limatola	NA	NA	14.425	41.125	2024	September	BG-Sentinel	Field Adult	1	1	0	0	0	1	1	0	0	0	243, 3112	91.6, 8.4	16.96	12
-147	IZSM	de Martinis	Campania	Benevento	ITA.5.2_1	Torrecuso	NA	NA	14.675	41.2	2024	September	BG-Sentinel	Field Adult	7	7	0	0	0	7	7	0	0	0	241	100	15.56	23
-148	IZSM	de Martinis	Campania	Benevento	ITA.5.2_1	Benevento	NA	NA	14.75	41.125	2024	September	BG-Sentinel	Field Adult	1	0	1	0	0.5	1	1	0	0	0	112, 242, 242	56.1, 37.3, 6.6	16.19	736
-149	IZSM	de Martinis	Campania	Benevento	ITA.5.2_1	Benevento	NA	NA	14.825	41.125	2024	September	BG-Sentinel	Field Adult	1	0	1	0	0.5	1	1	0	0	0	121, 2111, 242	1.5, 2.3, 96.2	16.19	94
-150	IZSM	de Martinis	Campania	Caserta	ITA.5.3_1	San Marco Evangelista	NA	NA	14.35	41.05	2024	October	BG-Sentinel	Field Adult	30	25	5	0	0.083	30	30	0	0	0	111, 2111, 242	59.0, 40.7, 0.3	17.66	858
-151	IZSM	de Martinis	Campania	Napoli	ITA.5.4_1	Portici	NA	NA	14.35	40.825	2024	September	BG-Sentinel	Field Adult	30	25	4	1	0.1	30	30	0	0	0	111, 141	31.6, 68.4	18.73	3606
-152	IZSM	de Martinis	Campania	Salerno	ITA.5.5_1	Laureana Cilento	NA	NA	15	40.3	2024	November	BG-Sentinel	Field Adult	30	26	4	0	0.067	30	30	0	0	0	2111, 223, 242	15.8, 80.9, 3.3	18.43	11
-153	IZSLER	ELENA CARRA	Emilia Romagna	Bologna	ITA.6.1_1	Bologna	Urban	Public	11.325	44.525	2024	July	CDC-CO2	Field Adult	30	27	3	0	0.05	30	28	2	0	0.033	112	100	15.15	2874
-154	IZSLER	ELENA CARRA	Emilia Romagna	Ferrara	ITA.6.2_1	Ferrara	Urban	Public	11.6	44.85	2024	July	CDC-CO2	Field Adult	30	15	11	4	0.317	30	30	0	0	0	112, 121, 2111, 324	71.0, 12.4, 12.0, 4.6	15.27	1272
-155	IZSLER	ELENA CARRA	Emilia Romagna	Forli-Cesena	ITA.6.3_1	Forlì Cesena	Urban	Public	12.05	44.125	2024	July	CDC-CO2	Field Adult	30	23	5	2	0.15	30	30	0	0	0	112, 2111, 242	39.2, 16.4, 44.4	13.95	811
-156	IZSLER	ELENA CARRA	Emilia Romagna	Modena	ITA.6.4_1	Modena	Urban	Public	10.95	44.65	2024	July	CDC-CO2	Field Adult	30	27	2	1	0.067	30	30	0	0	0	112, 121, 142, 2111	4.9, 30.5, 63.8, 0.9	15.29	193
-157	IZSLER	ELENA CARRA	Emilia Romagna	Parma	ITA.6.5_1	Parma	Urban	Public	10.35	44.775	2024	July	CDC-CO2	Field Adult	30	17	4	9	0.367	29	29	0	0	0	112, 121	90.6, 9.4	14.64	3198
-158	IZSLER	ELENA CARRA	Emilia Romagna	Piacenza	ITA.6.6_1	Piacenza	Urban	Public	9.725	45.05	2024	July	CDC-CO2	Field Adult	30	19	11	0	0.183	30	30	0	0	0	121, 2111	91.3, 8.7	14.53	43
-159	IZSLER	ELENA CARRA	Lombardia	Cremona	ITA.6.6_1	Cremona	Peri-urban	Public	10	45.125	2024	August	CDC-CO2	Field Adult	38	32	5	1	0.092	38	38	0	0	0	112	100	15.23	1656
-160	IZSLER	ELENA CARRA	Emilia Romagna	Ravenna	ITA.6.7_1	Ravenna	Urban	Public	12.2	44.425	2024	July	CDC-CO2	Field Adult	30	14	15	1	0.283	30	30	0	0	0	111, 112	0.9, 99.1	16.35	2071
-161	IZSLER	ELENA CARRA	Emilia Romagna	Reggio Emilia	ITA.6.8_1	Reggio Emilia	Urban	Public	10.625	44.7	2024	July	CDC-CO2	Field Adult	29	28	1	0	0.017	30	30	0	0	0	112, 121	61.5, 38.5	14.78	748
-162	IZSLER	ELENA CARRA	Emilia Romagna	Rimini	ITA.6.9_1	Rimini	Urban	Public	12.525	44.075	2024	July	CDC-CO2	Field Adult	28	21	7	0	0.125	28	28	0	0	0	112, 121, 112	40.6, 27.9, 31.6	16	1847
-163	IZSVe	Federica Gobbo	Friuli-Venezia Giulia	Gorizia	ITA.7.1_1	Monfalcone	Peri-Urban	Private	13.55	45.775	2024	June	Ovitrap	Laboratory Adult	29	29	0	0	0	30	30	0	0	0	121, 123, 421, 523	8.8, 55.0, 12.8, 23.4	15.78	6
-164	IZSVe	Federica Gobbo	Friuli-Venezia Giulia	Pordenone	ITA.7.2_1	Cordenons	Rural	Private	12.675	45.975	2024	July	CDC Light Trap	Field Adult	31	30	1	0	0.016	7	7	0	0	0	112, 242	15.3, 84.7	13.99	34
-165	IZSVe	Federica Gobbo	Friuli-Venezia Giulia	Trieste	ITA.7.3_1	Trieste	Urban	Private	13.75	45.625	2024	July	BG-Sentinel	Field Adult	8	8	0	0	0	8	8	0	0	0	123, 523	22.5, 77.5	13.98	1
-166	IZSVe	Federica Gobbo	Friuli-Venezia Giulia	Trieste	ITA.7.3_1	Trieste	Urban	Private	13.75	45.65	2024	July	Ovitrap	Laboratory Adult	11	10	1	0	0.045	11	11	0	0	0	112, 123, 523	0.3, 66.8, 33.0	13.98	2
-167	IZSVe	Federica Gobbo	Friuli-Venezia Giulia	Trieste	ITA.7.3_1	Trieste	Urban	Private	13.775	45.65	2024	July	BG-Sentinel	Field Adult	9	6	3	0	0.167	9	9	0	0	0	111, 112, 123, 123, 523	24.1, 2.8, 8.6, 22.0, 42.5	13.98	711
-168	IZSVe	Federica Gobbo	Friuli-Venezia Giulia	Udine	ITA.7.4_1	Villa Santina	Rural	Public	12.925	46.425	2024	August	Larval Dip	Field Adult	18	17	1	0	0.028	9	9	0	0	0	112, 121, 324	89.5, 4.7, 5.8	8.6	488
-169	IZSVe	Federica Gobbo	Friuli-Venezia Giulia	Udine	ITA.7.4_1	Villa Santina	Rural	Public	12.95	46.4	2024	August	Ovitrap	Laboratory Adult	7	7	0	0	0	5	5	0	0	0	112, 231, 3122, 331	6.6, 61.9, 0.4, 31.0	8.6	15
-170	IZSVe	Federica Gobbo	Friuli-Venezia Giulia	Udine	ITA.7.4_1	Pavia di Udine	Rural	Public	13.3	46	2024	September	CDC Light Trap	Field Adult	7	7	0	0	0	1	1	0	0	0	2111	100	14.64	0
-171	IZSLT	Valeria Carioti	Lazio	Frosinone	ITA.8.1_1	Castro dei Volsci	NA	NA	13.4	41.5	2024	July	Reared Larvae	Laboratory Adult	7	7	0	0	0	10	10	0	0	0	242, 3112	77.5, 22.5	15.91	18
-172	IZSLT	Valeria Carioti	Lazio	Frosinone	ITA.8.1_1	Castro dei Volsci	NA	NA	13.4	41.525	2024	July	Reared Larvae	Laboratory Adult	20	20	0	0	0	6	6	0	0	0	112, 242, 3112	41.7, 56.7, 1.6	15.91	239
-173	IZSLT	Valeria Carioti	Lazio	Frosinone	ITA.8.1_1	Castro dei Volsci	NA	NA	13.45	41.525	2024	October	Aspirators	Field Adult	3	3	0	0	0	5	5	0	0	0	2111, 3112, 3211	65.4, 34.6, 0.0	15.91	13
-174	IZSLT	Valeria Carioti	Lazio	Frosinone	ITA.8.1_1	Sora	NA	NA	13.6	41.7	2024	September	CDC Light Trap	Field Adult	25	25	0	0	0	4	4	0	0	0	112, 2111, 242, 243	39.4, 3.3, 27.9, 29.4	13.7	256
-175	IZSLT	Ilaria Congiu	Lazio	Roma	ITA.8.2_1	Velletri	NA	NA	12.8	41.625	2023	June	CDC Light Trap	Field Adult	3	2	0	1	0.333	NA	NA	NA	NA	NA	222, 222, 242	13.0, 0.7, 86.3	16.93	72
-176	IZSLT	Valeria Carioti	Lazio	Latina	ITA.8.2_1	Terracina	NA	NA	13.225	41.3	2024	June	Reared Larvae	Laboratory Adult	31	28	3	0	0.048	NA	NA	NA	NA	NA	112, 121	9.6, 90.4	18.07	57
-177	IZSLT	Valeria Carioti	Lazio	Latina	ITA.8.2_1	Terracina	NA	NA	13.25	41.3	2023	June	Aspirators	Field Adult	69	55	11	3	0.123	67	67	0	0	0	111, 112, 3212	52.9, 38.3, 8.8	18.07	1867
-178	IZSLT	Valeria Carioti	Lazio	Rieti	ITA.8.3_1	Rieti	NA	NA	12.85	42.4	2024	October	Aspirators	Field Adult	32	31	0	1	0.031	30	30	0	0	0	111, 112, 2111	2.6, 97.3, 0.1	14.28	549
-179	IZSLT	Valeria Carioti	Lazio	Rieti	ITA.8.3_1	Rieti	NA	NA	12.875	42.4	2024	October	Aspirators	Field Adult	22	22	0	0	0	2	2	0	0	0	111, 112, 243, 3111, 3112	18.0, 48.9, 2.8, 18.5, 11.9	14.28	1074
-180	IZSLT	Valeria Carioti	Lazio	Rieti	ITA.8.3_1	Rieti	NA	NA	12.9	42.425	2024	September	Reared Larvae	Laboratory Adult	2	2	0	0	0	NA	NA	NA	NA	NA	121, 2111	64.4, 35.6	12.34	14
-181	IZSLT	Valeria Carioti	Lazio	Roma	ITA.8.4_1	Civitavecchia	NA	NA	11.775	42.1	2024	August	Aspirators	Field Adult	10	10	0	0	0	NA	NA	NA	NA	NA	121, 523	69.9, 30.1	18.12	7
-182	IZSLT	Ilaria Congiu	Lazio	Roma	ITA.8.4_1	Roma	NA	NA	12.325	41.875	2023	May	CDC Light Trap	Field Adult	3	3	0	0	0	NA	NA	NA	NA	NA	121, 2111	3.4, 96.6	18.2	2
-183	IZSLT	Ilaria Congiu	Lazio	Roma	ITA.8.4_1	Ardea	NA	NA	12.5	41.6	2023	June	Reared Larvae	Laboratory Adult	10	4	0	6	0.6	NA	NA	NA	NA	NA	112	100	18.51	688
-184	IZSLT	Ilaria Congiu	Lazio	Roma	ITA.8.4_1	Roma	NA	NA	12.575	41.875	2023	June	CDC Light Trap	Field Adult	5	2	1	2	0.5	NA	NA	NA	NA	NA	112, 2111	73.1, 26.9	17.5	2658
-185	IZSLT	Ilaria Congiu	Lazio	Roma	ITA.8.4_1	Roma	NA	NA	12.575	41.8	2023	June	Reared Larvae	Laboratory Adult	1	1	0	0	0	NA	NA	NA	NA	NA	124, 142, 2111	51.7, 18.4, 29.9	17.92	25
-186	IZSLT	Valeria Carioti	Lazio	Roma	ITA.8.4_1	Ciampino	NA	NA	12.6	41.8	2024	July	Reared Larvae	Laboratory Adult	22	18	4	0	0.091	21	21	0	0	0	111, 124	57.7, 42.3	17.92	2797
-187	IZSLT	Ilaria Congiu	Lazio	Roma	ITA.8.4_1	Roma	NA	NA	12.675	41.925	2023	June	CDC Light Trap	Field Adult	7	6	1	0	0.071	NA	NA	NA	NA	NA	112, 121, 122, 2111	31.2, 29.8, 14.5, 24.5	16.39	270
-188	UNISAP	Verena Pichler	Lazio	Roma	ITA.8.4_1	Roma	Urban	Public	12.447	41.908	2024	May-October	Sticky Trap	Field Adult	66	24	24	18	0.45	NA	NA	NA	NA	NA	111, 133	94.5, 5.5	17.5	7043
-189	UNISAP	Verena Pichler	Lazio	Roma	ITA.8.4_1	Roma	Urban	Public	12.475	41.917	2024	May-October	Sticky Trap	Field Adult	68	35	21	12	0.33	30	30	0	0	0	111, 112, 141, 511	59.4, 19.0, 20.4, 1.3	17.5	661
-190	UNISAP	Verena Pichler	Lazio	Roma	ITA.8.4_1	Roma	Urban	Public	12.078	41.95	2024	May-October	Sticky Trap	Field Adult	63	16	28	19	0.52	30	30	0	0	0	111	100	18.09	4640
-191	UNISAP	Verena Pichler	Lazio	Roma	ITA.8.4_1	Roma	Urban	Public	12.396	41.883	2024	May-October	Sticky Trap	Field Adult	72	32	23	17	0.4	NA	NA	NA	NA	NA	112, 121, 2111	30.3, 46.9, 22.8	17.5	97
-192	UNISAP	Verena Pichler	Lazio	Roma	ITA.8.4_1	Roma	Urban	Public	12.457	41.896	2024	May-October	Sticky Trap	Field Adult	74	31	30	13	0.38	30	30	0	0	0	111, 141	72.6, 27.4	17.5	1972
-193	IZSLT	Valeria Carioti	Lazio	Roma	ITA.8.4_1	Colleferro	NA	NA	13	41.75	2024	August	Reared Larvae	Laboratory Adult	14	14	0	0	0	14	14	0	0	0	121, 2111, 243	57.4, 9.6, 33.0	15.46	0
-194	IZSLT	Valeria Carioti	Lazio	Viterbo	ITA.8.5_1	Tarquinia	Urban	NA	11.75	42.25	2024	October	Aspirators	Field Adult	71	33	26	12	0.352	53	53	0	0	0	112, 2111	98.5, 1.5	17.56	1815
-195	IZSPLV	CORONA	Liguria	Genova	ITA.9.1_1	Genova	Peri-Urban	Public	8.925	44.425	2024	September	BG-Sentinel	Field Adult	32	32	0	0	0	32	32	0	0	0	112, 3132, 324, 324	10.8, 79.4, 0.3, 9.5	13.74	562
-196	IZSPLV	CORONA	Liguria	Imperia	ITA.9.2_1	Imperia	Urban	Public	8.025	43.875	2024	August	BG-Sentinel	Field Adult	18	18	0	0	0	16	16	0	0	0	123, 523	23.3, 76.7	14.15	2
-197	IZSPLV	CORONA	Liguria	Spezia	ITA.9.3_1	La Spezia	Urban	Public	9.825	44.1	2024	September	BG-Sentinel	Field Adult	5	5	0	0	0	5	5	0	0	0	123, 523	63.9, 36.1	17.71	0
-198	IZSPLV	CORONA	Liguria	Spezia	ITA.9.4_1	Savona	Urban	Public	8.475	44.3	2024	August	BG-Sentinel	Field Adult	2	2	0	0	0	1	1	0	0	0	111, 523	22.1, 77.9	15.87	265
+ID;Institution;Contributor;Region;Province;GID_2;Municipality;Site (urban peri-urban, rural);Private/Public area;Longitude Masked;Latitude Masked;Sampling Year;Sampling Month;Sampling Method;Stage;N specimens genotyped (locus 1016);N VV;N VG;N GG;G%;N specimens genotyped (locus 1534);N FF;N FC;N CC;C%;CLC 18 Categories;CLC 18 %;ERA5 - Mean 2m Temperature 2024;POP21 ISTAT
+1;IZSAM;Di Domenico;Abruzzo;Pescara;ITA.1.1_1;Pescara;Urban;Private;14.175;42.425;2024;July;BG-Sentinel;Field Adult;30;17;13;0;0.217;30;30;0;0;0;121, 242, 243;87.9, 10.4, 1.8;17.36;33
+2;IZSAM;Di Domenico;Abruzzo;Chieti;ITA.1.1_1;San Giovanni Teatino;Urban;Public;14.2;42.425;2024;June;Ovitrap;Laboratory Adult;16;14;2;0;0.062;16;16;0;0;0;223;100;17.36;67
+3;IZSAM;Di Domenico;Abruzzo;Chieti;ITA.1.1_1;San Salvo;Urban;Public;14.725;42.05;2024;May;Ovitrap;Laboratory Adult;16;16;0;0;0;16;16;0;0;0;111, 112, 242;57.7, 39.5, 2.9;17.39;2036
+4;IZSAM;Di Domenico;Abruzzo;L'Aquila;ITA.1.2_1;L'Aquila;Urban;Public;13.35;42.375;2024;June;Ovitrap;Laboratory Adult;30;22;8;0;0.133;30;30;0;0;0;121, 2111;30.0, 70.0;11.91;8
+5;IZSAM;Di Domenico;Abruzzo;Teramo;ITA.1.4_1;Teramo;Urban;Private;13.7;42.65;2024;July;BG-Sentinel;Field Adult;30;25;5;0;0.083;30;30;0;0;0;111, 243, 3112;49.6, 42.7, 7.7;15.6;639
+6;IZSLER;ELENA CARRA;Lombardia;Bergamo;ITA.10.1_1;Bergamo;Urban;Public;9.7;45.675;2024;August;CDC-CO2;Field Adult;32;28;4;0;0.062;32;32;0;0;0;112, 121, 2111;10.9, 59.7, 29.4;12.09;144
+7;IZSLER;ELENA CARRA;Lombardia;Lecco;ITA.10.10_1;Merate;Peri-urban;Public;8.725;45.075;2024;August;CDC-CO2;Field Adult;31;27;4;0;0.065;23;23;0;0;0;213, 213;95.3, 4.7;14.79;1
+8;IZSLER;ELENA CARRA;Lombardia;Pavia;ITA.10.10_1;Stradella;Peri-urban;Public;9.32500000000001;45.075;2024;August;CDC-CO2;Field Adult;32;32;0;0;0;29;29;0;0;0;112, 2111, 221;0.4, 75.6, 24.1;14.1;2
+9;IZSLER;ELENA CARRA;Lombardia;Sondrio;ITA.10.11_1;Sondrio;Rural;Public;9.875;46.175;2024;August;CDC-CO2;Field Adult;32;28;4;0;0.062;32;32;0;0;0;2111, 3113;99.0, 1.0;4.83;5
+10;IZSLER;ELENA CARRA;Lombardia;Varese;ITA.10.12_1;Malpensa;Peri-urban;Public;8.725;45.625;2024;July;CDC-CO2;Field Adult;32;31;1;0;0.016;27;27;0;0;0;124;100;14.27;0
+11;IZSLER;ELENA CARRA;Lombardia;Brescia;ITA.10.2_1;Brescia;Urban;Public;10.175;45.525;2024;August;CDC-CO2;Field Adult;32;21;3;8;0.297;33;33;0;0;0;121, 2111;56.7, 43.3;14.49;164
+12;IZSLER;ELENA CARRA;Lombardia;Como;ITA.10.3_1;Cermenate;Urban;Public;9.075;45.7;2024;July;CDC-CO2;Field Adult;32;32;0;0;0;31;31;0;0;0;112, 2111;54.2, 45.8;13.86;611
+13;IZSLER;ELENA CARRA;Lombardia;Milano;ITA.10.5_1;Milano;Peri-urban;Public;9.425;45.675;2024;August;CDC-CO2;Field Adult;35;34;1;0;0.014;33;33;0;0;0;121, 2111;0.5, 99.5;13.2;9
+14;IZSLER;ELENA CARRA;Lombardia;Lodi;ITA.10.6_1;Caselle Landi;Urban;Public;9.775;45.125;2024;July;CDC-CO2;Field Adult;31;27;3;1;0.081;23;23;0;0;0;2111;100;14.53;85
+15;IZSLER;ELENA CARRA;Lombardia;Mantova;ITA.10.7_1;Poggio Rusco;Peri-urban;Public;11.1;44.975;2024;July;CDC-CO2;Field Adult;30;28;2;0;0.033;30;30;0;0;0;2111;100;15.27;142
+16;IZSLER;ELENA CARRA;lombardia;Monza Brianza;ITA.10.8_1;Limbiate;Urban;Public;9.125;45.575;2024;August;CDC-CO2;Field Adult;32;29;2;1;0.062;31;31;0;0;0;112, 121, 242;2.4, 33.4, 64.3;14.92;381
+17;IZS UM;Gavaudan/Favia/Racciati;Marche;Ancona;ITA.11.1_1;Marzocca;Urban;Public;13.29;43.68;2024;June-October;NA;Field Adult;16;16;0;0;0;16;16;0;0;0;112, 2111, 242;89.1, 0.1, 10.8;418:19:12;1654
+18;IZS UM;Gavaudan/Favia/Racciati;Marche;Ancona;ITA.11.1_1;Scapezzano;Rural;Public;13.16;43.73;2024;June-July;NA;Field Adult;14;14;0;0;0;14;14;0;0;0;2111, 242;19.4, 80.6;418:19:12;29
+19;IZS UM;Gavaudan/Favia/Racciati;Marche;Macerata;ITA.11.2_1;Tolentino;Peri-Urban;Public;13.34;43.22;2024;June-October;NA;Field Adult;14;13;0;1;0.071;14;0;0;0;0;121, 242;31.7, 68.3;366:00:00;10
+20;IZS UM;Gavaudan/Favia/Racciati;Marche;Macerata;ITA.11.2_1;Porto Recanati;Peri-Urban;Public;13.66;43.42;2024;July-September;NA;Field Adult;15;15;0;0;0;15;0;0;0;0;112, 2111, 2111, 324;51.3, 28.1, 6.6, 13.9;427:12:00;1028
+21;IZS UM;Gavaudan/Favia/Racciati;Marche;Ascoli Piceno;ITA.11.4_1;San Benedetto del Tronto;Urban;Public;13.89;42.93;2024;June-October;NA;Field Adult;30;29;0;1;0.03;30;0;0;0;0;112, 331, 523;68.4, 19.0, 12.7;430:33:36;435
+22;IZS UM;Gavaudan/Favia/Racciati;Marche;Pesaro;ITA.11.5_1;Fano;Rural;Public;13.03;43.81;2024;June-September;NA;Field Adult;15;12;1;2;0.167;15;15;0;0;0;2111;100;16.89;18
+23;IZS UM;Gavaudan/Favia/Racciati;Marche;Pesaro;ITA.11.5_1;Fano;Urban;Public;13.02;43.83;2024;October;NA;Field Adult;15;12;2;1;0.133;15;15;0;0;0;112, 121, 2111;55.0, 41.3, 3.7;16.89;1225
+24;IZSAM;Di Domenico;Molise;Campobasso;ITA.12.1_1;Campobasso;Urban;Private;14.65;41.575;2024;July;Ovitrap;Laboratory Adult;16;9;7;0;0.219;16;16;0;0;0;111, 112, 243;58.1, 5.7, 36.2;14.6;1827
+25;IZSAM;Di Domenico;Molise;Campobasso;ITA.12.1_1;Termoli;Urban;Public;15;42;2024;September;CDC Light Trap;Field Adult;16;6;10;0;0.312;16;16;0;0;0;112, 112, 2111;7.8, 67.0, 25.1;18.2;531
+26;IZSAM;Di Domenico;Molise;Isernia;ITA.12.2_1;Isernia;Urban;Private;14.2;41.575;2024;September;Ovitrap;Laboratory Adult;32;20;12;0;0.188;32;32;0;0;0;242, 3112;57.3, 42.7;14.09;81
+27;IZSPLV;CORONA;Piemonte;Alessandria;ITA.13.1_1;Rivalta Scrivia;Peri-Urban;Public;8.8;44.875;2024;August;Ovitrap;Adult;30;30;0;0;0;30;30;0;0;0;121;100;13.93;0
+28;IZSPLV;CORONA;Piemonte;Asti;ITA.13.2_1;Asti;Rural;Public;8.125;44.95;2024;August;CDC-CO2;Adult;8;8;0;0;0;8;8;0;0;0;142, 2111;14.1, 85.9;13.5;16
+29;IZSPLV;CORONA;Piemonte;Biella;ITA.13.3_1;Lessona;Rural;Public;8.2;45.575;2024;August;CDC-CO2;Adult;12;12;0;0;0;12;12;0;0;0;112, 242, 3112, 3113;67.0, 11.3, 0.1, 21.5;13.35;271
+30;IZSPLV;CORONA;Piemonte;Cuneo;ITA.13.4_1;Alba;Urban;Public;8.025;44.7;2024;August;CDC-CO2;Adult;30;26;4;0;0.067;30;30;0;0;0;112, 121, 2111;83.4, 16.2, 0.4;13.9;221
+31;IZSPLV;CORONA;Piemonte;Novara;ITA.13.5_1;Novara;Peri-Urban;Public;8.65;45.475;2024;September;BG-lure-CO2;Adult;27;27;0;0;0;27;27;0;0;0;121, 122;49.3, 50.7;14.27;4
+32;IZSPLV;CORONA;Piemonte;Torino;ITA.13.6_1;Caselle;Peri-Urban;Public;7.65;45.2;2024;September;Ovitrap;Adult;30;30;0;0;0;30;30;0;0;0;124, 2111;83.9, 16.1;13.52;15
+33;IZSPLV;CORONA;Piemonte;Verbania;ITA.13.7_1;Verbania;Urban;Public;8.55;45.925;2024;August;BG-lure-CO2;Adult;28;27;1;0;0.018;28;28;0;0;0;111, 112, 112, 512;63.2, 10.6, 19.3, 6.9;10.91;1266
+34;IZSPLV;CORONA;Piemonte;Vercelli;ITA.13.8_1;Vercelli;Urban;Public;8.425;45.3;2024;August;Larval Dip;Adult;30;30;0;0;0;30;30;0;0;0;121, 124, 213, 242;49.2, 1.8, 42.6, 6.4;14.04;20
+35;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Cagliari;ITA.14.1_1;Uta;Rural;Private;8.95;39.275;2024;July;CDC Light Trap;Field Adult;9;9;0;0;0;9;9;0;0;0;2111;100;18.13;2
+36;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Cagliari;ITA.14.1_1;Capoterra;Rural;Private;9;39.125;2024;October;CDC Light Trap;Field Adult;4;4;0;0;0;4;4;0;0;0;2111, 242, 242, 243;85.5, 0.6, 5.2, 8.6;18.13;8
+37;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Cagliari;ITA.14.1_1;Cagliari;Urban;Public;9.1;39.225;2024;October;BG-Sentinel;Field Adult;14;13;1;0;0.036;14;14;0;0;0;111, 112;45.5, 54.5;18.13;1855
+38;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Cagliari;ITA.14.1_1;Cagliari;Peri-Urban;Public;9.15;39.2;2024;September;BG-Sentinel;Field Adult;3;3;0;0;0;3;3;0;0;0;112, 142;99.1, 0.9;18.47;1204
+39;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Sud Sardegna;ITA.14.2_1;Iglesias;Rural;Private;8.575;39.325;2024;June;CDC Light Trap;Field Adult;2;2;0;0;0;1;1;0;0;0;242, 3232;31.8, 68.2;18.7;14
+40;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Sud Sardegna;ITA.14.3_1;San Gavino;Urban;Private;8.8;39.55;2024;July;BG-Sentinel;Field Adult;28;26;2;0;0.036;28;28;0;0;0;112, 2111, 223;75.7, 22.1, 2.2;17.69;894
+41;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Nuoro;ITA.14.4_1;Nuoro;Peri-Urban;Public;9.32500000000001;40.325;2024;July;BG-Sentinel;Field Adult;5;5;0;0;0;5;5;0;0;0;112, 141, 3232;51.7, 41.6, 6.7;15.25;829
+42;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Nuoro;ITA.14.4_1;Dorgali;Rural;Private;9.575;40.3;2024;July;CDC Light Trap;Field Adult;8;8;0;0;0;8;8;0;0;0;243;100;16.24;4
+43;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Nuoro;ITA.14.4_1;Siniscola;Rural;Private;9.65;40.575;2024;July;CDC Light Trap;Field Adult;7;7;0;0;0;7;7;0;0;0;231, 3232;46.5, 53.5;18.08;0
+44;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Nuoro;ITA.14.4_1;Orosei;Rural;Private;9.725;40.4;2024;July;CDC Light Trap;Field Adult;4;4;0;0;0;4;4;0;0;0;243, 3232;61.8, 38.2;18.08;2
+45;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Nuoro;ITA.14.4_1;Posada;Rural;Private;9.75;40.625;2024;July;CDC Light Trap;Field Adult;5;5;0;0;0;5;5;0;0;0;242, 421;62.3, 37.7;18.1;1
+46;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Nuoro;ITA.14.5_1;Bari Sardo;Rural;Private;9.625;39.95;2024;July;CDC Light Trap;Field Adult;1;1;0;0;0;1;1;0;0;0;2111, 3231;98.1, 1.9;15.58;4
+47;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Sassari;ITA.14.6_1;Olbia;Peri-Urban;Public;9.525;40.925;2024;July;BG-Sentinel;Field Adult;1;0;1;0;0.5;1;1;0;0;0;123, 523;61.7, 38.3;17.91;18
+48;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Sassari;ITA.14.6_1;Olbia;Peri-Urban;Private;9.55;40.925;2024;July;BG-Sentinel;Field Adult;1;1;0;0;0;1;1;0;0;0;121, 123, 3232, 523;5.4, 83.1, 7.4, 4.1;17.91;3
+49;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Oristano;ITA.14.7_1;Oristano;Rural;Private;8.5;39.9;2024;July;BG-Sentinel;Field Adult;9;9;0;0;0;9;9;0;0;0;3232, 521, 523;76.3, 5.9, 17.8;17.83;1
+50;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Oristano;ITA.14.7_1;Cabras;Urban;Private;8.525;39.925;2024;July;CDC Light Trap;Field Adult;4;4;0;0;0;3;3;0;0;0;112, 213, 521;70.4, 0.6, 28.9;17.83;360
+51;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Oristano;ITA.14.7_1;Oristano;Urban;Private;8.525;39.9;2024;July;BG-Sentinel;Field Adult;8;4;2;2;0.375;6;6;0;0;0;112, 2111, 3121, 3232, 523;56.6, 9.7, 22.2, 1.3, 10.2;17.83;207
+52;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Oristano;ITA.14.7_1;Oristano;Urban;Private;8.6;39.9;2024;July;BG-Sentinel;Field Adult;9;7;2;0;0.111;9;9;0;0;0;112, 121, 242;53.9, 15.0, 31.1;17.83;423
+53;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Sassari;ITA.14.8_1;Stintino;Rural;Private;8.25;40.875;2024;July;CDC Light Trap;Field Adult;1;1;0;0;0;1;1;0;0;0;2111, 242, 243;46.0, 52.4, 1.6;18.49;15
+54;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Sassari;ITA.14.8_1;Alghero;Peri-Urban;Public;8.3;40.625;2024;July;Ovitrap;Field Adult;2;2;0;0;0;2;2;0;0;0;124, 2111;81.2, 18.8;18.49;3
+55;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Sassari;ITA.14.8_1;Alghero;Rural;Private;8.35;40.575;2024;July;CDC Light Trap;Field Adult;5;5;0;0;0;5;5;0;0;0;2111, 223;92.0, 8.0;18.26;14
+56;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Sassari;ITA.14.8_1;Sorso;Rural;Private;8.5;40.8;2024;July;CDC Light Trap;Field Adult;8;8;0;0;0;8;8;0;0;0;2111, 242, 421;98.2, 1.5, 0.3;17.29;8
+57;IZS della Sardegna;C. Foxi / L. Ruiu;Sardegna;Sassari;ITA.14.8_1;Sassari;Peri-Urban;Private;8.55;40.7;2024;June;BG-Sentinel;Field Adult;12;12;0;0;0;12;12;0;0;0;112, 243, 3116;29.2, 59.1, 11.7;17.29;67
+58;IZS Sicilia;F. Vitale;Sicilia;Agrigento;ITA.15.1_1;Villaggio Mos\8A;Peri-urban (horse stable);Private;13.625;37.275;2024;June;Bg Sentinel Trap;Adult;30;18;3;9;0.35;20;20;0;0;0;112, 2111, 223, 241;34.5, 39.5, 18.0, 8.0;19.14;160
+59;IZS Sicilia;F. Vitale;Sicilia;Caltanissetta;ITA.15.2_1;San Cataldo;Rural (kennel);Public;13.975;37.55;2024;June;Bg Sentinel Trap;Adult;24;17;4;3;0.208;14;11;2;1;0.143;2111;100;16.97;0
+60;IZS Sicilia;F. Vitale;Sicilia;Catania;ITA.15.3_1;Catania;Peri-urban (airport);Public;15.075;37.475;2024;May;Bg Sentinel Trap;Adult;19;11;1;7;0.395;13;13;0;0;0;121, 124;14.0, 86.0;19.24;9
+61;IZS Sicilia;F. Vitale;Sicilia;Enna;ITA.15.4_1;Leonforte;Rural (horse stable);Private;14.4;37.625;2024;July;Bg Sentinel Trap;Adult;21;16;3;2;0.167;16;15;1;0;0.031;2111, 243;50.8, 49.2;17.93;3
+62;IZS Sicilia;F. Vitale;Sicilia;Messina;ITA.15.5_1;Milazzo;Rural (horse stable);Private;15.25;38.175;2024;June;Bg Sentinel Trap;Adult;21;11;3;7;0.405;12;11;1;0;0.042;242;100;19.17;78
+63;IZS Sicilia;F. Vitale;Sicilia;Palermo;ITA.15.6_1;Terrasini;Rural (horse stable);Private;13.1;38.1;2024;July;Bg Sentinel Trap;Adult;25;15;3;7;0.34;26;26;0;0;0;142, 241;0.0, 100.0;19;19
+64;IZS Sicilia;F. Vitale;Sicilia;Ragusa;ITA.15.7_1;Comiso;Peri-urban (airport);Public;14.6;37;2024;May;Bg Sentinel Trap;Adult;26;19;3;4;0.212;19;17;1;1;0.079;124, 2111;96.3, 3.7;18.64;1
+65;IZS Sicilia;F. Vitale;Sicilia;Siracusa;ITA.15.8_1;Avola;Rural (horse stable);Private;15.15;36.95;2024;July;Bg Sentinel Trap;Adult;25;20;3;2;0.14;18;18;0;0;0;222, 3212;66.9, 33.1;19.76;2
+66;IZS Sicilia;F. Vitale;Sicilia;Trapani;ITA.15.9_1;Trapani;Peri-urban (port);Public;12.5;38.025;2024;June;Bg Sentinel Trap;Adult;27;18;3;6;0.278;20;20;0;0;0;111, 123, 523;15.8, 40.7, 43.5;19.39;734
+67;IZSLT;Valeria Carioti;Toscana;Arezzo;ITA.16.1_1;Pratovecchio;Rural;Private;11.725;43.775;2023;June;Reared Larvae;Laboratory Adult;22;22;0;0;0;5;5;0;0;0;112, 121, 242, 243, 3114;64.1, 34.8, 0.7, 0.2, 0.2;13.05;769
+68;IZSLT;Valeria Carioti;Toscana;Arezzo;ITA.16.1_1;Arezzo;Rural;Private;11.775;43.45;2024;September;CDC Light Trap;Field Adult;2;2;0;0;0;10;10;0;0;NA;223, 243, 3112, 3131;0.2, 55.7, 44.1, 0.0;14.15;3
+69;IZSLT;Valeria Carioti;Toscana;Arezzo;ITA.16.1_1;Arezzo;Urban;Public;11.875;43.475;2023;October;BG-Sentinel;Field Adult;3;2;0;1;0.333;NA;NA;NA;NA;NA;111, 112;68.0, 32.0;13.85;1741
+70;IZSLT;Valeria Carioti;Toscana;Siena;ITA.16.10_1;Castellina_in_Chianti;Rural;Private;11.275;43.425;2023;July;CDC Light Trap;Field Adult;4;4;0;0;0;2;2;0;0;0;2111;100;14.94;1
+71;IZSLT;Valeria Carioti;Toscana;Siena;ITA.16.10_1;Siena;Urban;Public;11.325;43.3;2023;October;Aspirators;Field Adult;17;17;0;0;0;11;11;0;0;0;112, 242, 242, 243;23.6, 40.4, 3.0, 33.0;15.17;62
+72;IZSLT;Valeria Carioti;Toscana;Siena;ITA.16.10_1;Siena;Urban;Public;11.325;43.35;2023;September;Aspirators;Field Adult;14;14;0;0;0;0;0;0;0;0;112, 2111, 242, 242;56.7, 41.5, 1.8, 0.0;15.17;954
+73;IZSLT;Valeria Carioti;Toscana;Siena;ITA.16.10_1;Siena;Urban;Public;11.35;43.325;2023;September;Aspirators;Field Adult;1;1;0;0;0;NA;NA;NA;NA;NA;112, 112, 121, 242, 243;0.7, 25.7, 31.3, 12.8, 29.5;15.17;591
+74;IZSLT;Valeria Carioti;Toscana;Siena;ITA.16.10_1;Siena;Urban;Public;11.375;43.3;2023;August;Reared Larvae;Laboratory Adult;2;2;0;0;0;8;8;0;0;0;122, 221, 242, 242;55.0, 4.5, 17.3, 23.2;15.17;148
+75;IZSLT;Valeria Carioti;Toscana;Firenze;ITA.16.2_1;Fucecchio;Rural;Private;10.775;43.725;2023;June;CDC Light Trap;Field Adult;15;14;1;0;0.033;9;9;0;0;0;2111, 242;68.2, 31.8;15.37;26
+76;IZSLT;Valeria Carioti;Toscana;Firenze;ITA.16.2_1;Campi Bisenzio;Rural;Private;11.15;43.825;2023;August;CDC Light Trap;Field Adult;5;2;2;1;0.4;6;6;0;0;0;112, 2111;17.2, 82.8;14.77;520
+77;IZSLT;Valeria Carioti;Toscana;Firenze;ITA.16.2_1;Firenze;Urban;Public;11.275;43.75;2023;August;Aspirators;Field Adult;4;4;0;0;0;11;11;0;0;0;112, 223, 242;35.8, 60.4, 3.8;14.77;110
+78;IZSLT;Valeria Carioti;Toscana;Firenze;ITA.16.2_1;Bagno a Ripoli;Rural;Private;11.3;43.725;2023;September;CDC Light Trap;Field Adult;11;10;1;0;0.045;4;4;0;0;0;223, 243;1.9, 98.1;14.77;30
+79;IZSLT;Valeria Carioti;Toscana;Grosseto;ITA.16.3_1;Castiglione della Pescaia;Rural;Private;10.9;42.775;2023;June;CDC Light Trap;Field Adult;2;2;0;0;0;2;2;0;0;0;2111, 411;78.4, 21.6;17.62;3
+80;IZSLT;Valeria Carioti;Toscana;Grosseto;ITA.16.3_1;Grosseto;Urban;Public;11.1;42.775;2023;July;Reared Larvae;Laboratory Adult;21;15;6;0;0.143;7;7;0;0;0;111, 122;94.9, 5.1;17.62;2259
+81;IZSLT;Ilaria Congiu;Toscana;Grosseto;ITA.16.3_1;Orbetello;Rural;Public;11.2;42.475;2023;June;CDC Light Trap;Field Adult;5;4;0;1;0.2;NA;NA;NA;NA;NA;2111;100;17.59;4
+82;IZSLT;Valeria Carioti;Toscana;Grosseto;ITA.16.3_1;Capalbio;Rural;Public;11.375;42.4;2023;June;CDC Light Trap;Field Adult;7;7;0;0;0;5;5;0;0;0;112, 2111, 421, 521;0.0, 58.5, 21.2, 20.3;17.05;5
+83;IZSLT;Valeria Carioti;Toscana;Grosseto;ITA.16.3_1;Cingiano;Rural;Private;11.425;42.95;2023;May;CDC Light Trap;Field Adult;1;1;0;0;0;1;1;0;0;0;2111;100;15.72;2
+84;IZSLT;Valeria Carioti;Toscana;Grosseto;ITA.16.3_1;Manciano;Rural;Private;11.525;42.5;2023;June;CDC Light Trap;Field Adult;2;2;0;0;0;2;2;0;0;0;231, 3112;96.1, 3.9;17.05;0
+85;IZSLT;Valeria Carioti;Toscana;Livorno;ITA.16.4_1;Piombino;Urban;Public;10.525;42.925;2023;August;Reared Larvae;Laboratory Adult;51;47;4;0;0.039;46;46;0;0;0;111, 523;97.8, 2.2;17.89;3986
+86;IZSLT;Valeria Carioti;Toscana;Livorno;ITA.16.4_1;Castagneto_carducci;Rural;Private;10.55;43.175;2023;July;CDC Light Trap;Field Adult;1;1;0;0;0;NA;NA;NA;NA;NA;112, 2111, 3121;65.7, 10.1, 24.2;17.28;83
+87;IZSLT;Valeria Carioti;Toscana;Lucca;ITA.16.5_1;Camaiore;Rural;Private;10.25;43.925;2023;July;CDC Light Trap;Laboratory Adult;10;8;2;0;0.1;11;11;0;0;0;2111, 242;82.2, 17.8;15.22;60
+88;IZSLT;Valeria Carioti;Toscana;Lucca;ITA.16.5_1;Barga;Urban;Public;10.475;44.075;2023;August;BG-Sentinel;Field Adult;37;37;0;0;0;11;11;0;0;0;112, 242, 3116, 3117;9.6, 36.5, 29.7, 24.2;13.5;122
+89;IZSLT;Valeria Carioti;Toscana;Pistoia;ITA.16.5_1;Chiesina_uzzanese;Rural;Private;10.725;43.85;2023;August;CDC Light Trap;Field Adult;2;2;0;0;0;NA;NA;NA;NA;NA;2111;100;15.37;114
+90;IZSLT;Valeria Carioti;Toscana;Massa;ITA.16.6_1;Montignoso;Rural;Private;10.15;44;2023;July;CDC Light Trap;Field Adult;49;49;0;0;0;19;19;0;0;0;112, 242;40.1, 59.9;15.22;322
+91;IZSLT;Valeria Carioti;Toscana;Pisa;ITA.16.7_1;San Giuliano Terme;Rural;Private;10.325;43.75;2023;July;CDC Light Trap;Field Adult;58;56;2;0;0.017;30;30;0;0;0;2111, 3121;53.3, 46.7;16.92;2
+92;IZSLT;Valeria Carioti;Toscana;Pistoia;ITA.16.8_1;Pistoia;Urban;Public;10.9;43.925;2023;October;Aspirators;Field Adult;50;50;0;0;0;5;0;0;0;0;122, 2111, 222;37.5, 18.1, 44.4;13.42;69
+93;IZSLT;Valeria Carioti;Toscana;Prato;ITA.16.9_1;Prato ;Rural;Private;11.1;43.95;2023;July;CDC Light Trap;Field Adult;1;1;0;0;0;NA;NA;NA;NA;NA;223, 3132, 3132, 3132;82.6, 5.8, 9.9, 1.7;13.42;10
+94;IZSVe;Federica Gobbo;Trentino-Alto Adige;Bolzano;ITA.17.1_1;Terlano;Rural;Private;11.25;46.55;2024;July;BG-Sentinel;Field Adult;40;40;0;0;0;34;34;0;0;0;112, 222;22.1, 77.9;10.43;257
+95;IZSVe;Federica Gobbo;Trentino-Alto Adige;Trentino;ITA.17.2_1;Mezzolombardo;Rural;Public;11.075;46.225;2024;August;Larval Dip;Field Adult;18;15;3;0;0.083;4;4;0;0;0;111, 112, 221, 3113;17.0, 52.1, 3.7, 27.2;7.21;1304
+96;IZSVe;Federica Gobbo;Trentino-Alto Adige;Trentino;ITA.17.2_1;Mezzolombardo;Rural;Public;11.1;46.2;2024;August;Larval Dip;Field Adult;30;29;1;0;0.017;3;3;0;0;0;111, 112, 3113, 3131;2.7, 51.8, 2.2, 43.3;7.21;819
+97;Perugia. DIP. DI PREVENZIONE USL 1;Perugia. DIP. DI PREVENZIONE USL 1;Umbria;Perugia;ITA.18.1_1;Perugia;Urban;Public;12.4;43.125;2024;September;NA;Field Adult;20;20;0;0;0;21;16;4;1;0.143;112, 223;51.3, 48.7;14.9;180
+98;Perugia. AEROPORTO SAN FRANCESCO;Perugia. AEROPORTO SAN FRANCESCO;Umbria;Perugia;ITA.18.1_1;Perugia;Peri-Urban;Public;12.5;43.1;2024;September;NA;Field Adult;13;9;0;4;0.308;12;8;4;0;0.167;124, 2111;6.2, 93.8;15.16;9
+99;I.Z.S. Sezione Di Terni ;I.Z.S. Sezione Di Terni ;Umbria;Terni;ITA.18.2_1;Terni;Urban;Public;12.625;42.575;2024;September;NA;Field Adult;32;27;0;5;0.156;35;31;4;0;0.057;112, 242;70.1, 29.9;14.28;1016
+100;IZSPB;Parisi Antonio;Puglia;Bari;ITA.2.1_1;Molfetta ;Rural;Private;16.6;41.175;2024;September;NA;Adult;1;0;1;0;0.5;1;1;0;0;0;223;100;18.47;11
+101;IZSPB;Parisi Antonio;Puglia;Bari;ITA.2.1_1;Valenzano;Peri-Urban;Private;16.875;41.05;2024;June;NA;Adult;32;20;11;1;0.203;32;32;0;0;0;111;100;18;4645
+102;IZSPB;Parisi Antonio;Puglia;Bari;ITA.2.1_1;Mola di Bari;Rural;Private;17.075;41.05;2024;July;NA;Adult;1;1;0;0;0;1;1;0;0;0;112, 242;20.4, 79.6;18;415
+103;IZSPB;Parisi Antonio;Puglia;Barletta-Andria-Trani;ITA.2.2_1;Trinitapoli;Peri-Urban;Private;16.1;41.35;2024;July;NA;Adult;1;1;0;0;0;1;1;0;0;0;111, 242;94.2, 5.8;18.33;2168
+104;IZSPB;Parisi Antonio;Puglia;Barletta-Andria-Trani;ITA.2.2_1;Margherita di Savoia;Peri-Urban;Private;16.15;41.375;2024;October;NA;Adult;30;16;12;2;0.267;30;30;0;0;0;112, 523;88.8, 11.2;18.72;1674
+105;IZSPB;Parisi Antonio;Puglia;Brindisi;ITA.2.3_1;Brindisi;Urban;Private;17.95;40.625;2025;May;NA;Adult;10;5;4;1;0.3;10;10;0;0;0;111, 112, 123;67.6, 31.4, 1.0;19.09;1019
+106;IZSPB;Parisi Antonio;Puglia;Brindisi;ITA.2.3_1;Cellino San Marco;Urban;Private;17.975;40.475;2025;August;NA;Adult;2;2;0;0;0;2;2;0;0;0;111, 242;99.4, 0.6;18.94;991
+107;IZSPB;Parisi Antonio;Puglia;Brindisi;ITA.2.3_1;San Pietro Vernotico;Peri-Urban;Private;18;40.5;2025;July;NA;Adult;1;1;0;0;0;1;1;0;0;0;111, 112, 242;53.8, 44.2, 2.0;18.94;824
+108;IZSPB;Parisi Antonio;Puglia;Foggia;ITA.2.4_1;Serracapriola;Peri-Urban;Private;15.15;41.8;2024;October;NA;Adult;1;1;0;0;0;1;1;0;0;0;111, 223;93.3, 6.7;17.87;1500
+109;IZSPB;Parisi Antonio;Puglia;Foggia;ITA.2.4_1;Foggia;Urban;Private;15.55;41.45;2025;June;NA;Adult;1;0;1;0;0.5;1;1;0;0;0;111, 112;77.7, 22.3;17.97;2948
+110;IZSPB;Parisi Antonio;Puglia;Foggia;ITA.2.4_1;Cerignola;Urban;Private;15.9;41.275;2025;June;NA;Adult;1;0;1;0;0.5;1;1;0;0;0;111, 112;83.8, 16.2;18.33;3219
+111;IZSPB;Parisi Antonio;Puglia;Foggia;ITA.2.4_1;Vieste;Peri-Urban;Private;16.175;41.875;2024;August;NA;Adult;26;20;6;0;0.115;23;23;0;0;0;112;100;18.97;2746
+112;IZSPB;Parisi Antonio;Puglia;Lecce;ITA.2.5_1;Lecce;Urban;Private;18.175;40.35;2024;July;NA;Adult;30;19;11;0;0.183;30;30;0;0;0;111;100;18.95;1223
+113;IZSPB;Parisi Antonio;Puglia;Lecce;ITA.2.5_1;Calimera;Urban;Private;18.275;40.25;2024;October;NA;Adult;1;1;0;0;0;1;1;0;0;0;111;100;18.95;1064
+114;IZSPB;Parisi Antonio;Puglia;Taranto;ITA.2.6_1;Castellaneta;Peri-Urban;Private;16.95;40.625;2025;August;NA;Adult;1;0;1;0;0.5;1;1;0;0;0;112, 3231;91.9, 8.1;17.55;1996
+115;IZSPB;Parisi Antonio;Puglia;Taranto;ITA.2.6_1;Taranto;Urban;Private;17.25;40.475;2025;July;NA;Adult;2;2;0;0;0;2;2;0;0;0;111, 523;67.8, 32.2;18.47;2930
+116;IZSPB;Parisi Antonio;Puglia;Taranto;ITA.2.6_1;Taranto;Rural;Private;17.25;40.525;2024;July;NA;Adult;1;1;0;0;0;1;1;0;0;0;223, 231;83.6, 16.4;18.47;0
+117;IZSPB;Parisi Antonio;Puglia;Taranto;ITA.2.6_1;Taranto;Urban;Private;17.275;40.475;2025;May;NA;Adult;10;5;3;2;0.35;10;10;0;0;0;111, 112;98.9, 1.1;18.47;6481
+118;IZSPB;Parisi Antonio;Puglia;Taranto;ITA.2.6_1;Manduria;Rural;Private;17.625;40.425;2024;July;NA;Adult;1;1;0;0;0;1;1;0;0;0;223, 242;99.1, 0.9;18.81;3
+119;IZSPB;Parisi Antonio;Puglia;Taranto;ITA.2.6_1;Manduria;Urban;Private;17.625;40.4;2025;July;NA;Adult;5;5;0;0;0;5;5;0;0;0;111, 112;94.9, 5.1;18.81;1482
+120;UNISAP;Luana Violante;Puglia;Taranto;ITA.2.6_1;Taranto;Urban;Private;17.264812;40.462555;2024;August;Sticky Trap;Adult;26;23;3;0;0.058;14;13;1;0;0.071;18:47:00;111;100;5217
+121;UNISAP;Luana Violante;Puglia;Taranto;ITA.2.6_1;Taranto;Urban;Private;17.267645;40.433281;2024;August;Sticky Trap;Adult;14;10;4;0;0.143;23;21;0;0;0;18:47:00;112, 2111;48.2, 51.8;1557
+122;IZSVe;Federica Gobbo;Veneto;Belluno;ITA.20.1_1;Belluno;Rural;Public;12.2;46.15;2024;September;BG-Sentinel;Field Adult;30;30;0;0;0;29;29;0;0;0;112, 243;58.7, 41.3;7.83;209
+123;IZSVe;Federica Gobbo;Veneto;Padova;ITA.20.2_1;Legnaro;Rural;Public;11.95;45.35;2024;August;BG-Sentinel;Field Adult;30;26;4;0;0.067;29;29;0;0;0;112, 121, 2111;10.2, 51.4, 38.4;15.23;6
+124;IZSVe;Federica Gobbo;Veneto;Rovigo;ITA.20.3_1;Rovigo;Rural;Public;11.775;45.075;2024;September;CDC Light Trap;Field Adult;5;4;0;1;0.2;3;3;0;0;0;112, 2111;73.2, 26.8;15.17;1075
+125;IZSVe;Federica Gobbo;Veneto;Treviso;ITA.20.4_1;Treviso;Peri-Urban;Private;12.2;45.65;2024;July;BG-Sentinel;Field Adult;29;27;2;0;0.034;29;29;0;0;0;121, 124, 2111;20.3, 56.8, 22.9;14.85;34
+126;IZSVe;Federica Gobbo;Veneto;Venezia;ITA.20.5_1;Tessera;Peri-Urban;Private;12.325;45.5;2024;July;BG-Sentinel;Field Adult;30;30;0;0;0;20;20;0;0;0;124, 242, 242, 421, 521;66.1, 6.0, 15.7, 5.9, 6.2;15.71;2
+127;IZSVe;Federica Gobbo;Veneto;Verona;ITA.20.6_1;Sommacampagna;Peri-Urban;Private;10.9;45.4;2024;July;BG-Sentinel;Field Adult;30;26;3;1;0.083;30;30;0;0;0;124, 222, 124, 242;98.4, 0.0, 0.1, 1.5;13.99;0
+128;IZSVe;Federica Gobbo;Veneto;Vicenza;ITA.20.7_1;Marostica;Rural;Public;11.65;45.75;2024;July;Gravid Trap;Field Adult;21;20;1;0;0.024;9;9;0;0;0;112, 2111, 243;62.1, 1.1, 36.8;13.05;445
+129;IZSPB;Parisi Antonio;Basilicata;Matera;ITA.3.1_1;Matera;Urban;Private;16.6;40.675;2024;September;BG-Sentinel;Field Adult;29;26;3;0;0.052;29;29;0;0;0;111;100;17.11;2445
+130;IZSPB;Parisi Antonio;Basilicata;Potenza;ITA.3.2_1;Potenza;Urban;Private;15.8;40.65;2025;May;BG-Sentinel;Field Adult;10;7;3;0;0.15;10;10;0;0;0;111, 112;99.0, 1.0;14.58;3507
+131;IZSM;de Martinis;Calabria;Catanzaro;ITA.4.1_1;Lamezia Terme;NA;NA;16.3;38.975;2024;November;BG-Sentinel;Field Adult;2;2;0;0;0;2;2;0;0;0;111, 242;57.7, 42.3;16.72;1348
+132;IZSM;de Martinis;Calabria;Cosenza;ITA.4.2_1;Cetaro;NA;NA;15.95;39.5;2024;November;BG-Sentinel;Field Adult;5;4;1;0;0.1;5;5;0;0;0;112, 223, 242;13.9, 12.1, 74.0;17.68;149
+133;IZSM;de Martinis;Calabria;Cosenza;ITA.4.2_1;Fiumefreddo Bruzio;NA;NA;16.075;39.225;2024;October;BG-Sentinel;Field Adult;1;0;0;1;1;1;1;0;0;0;112, 242, 3112, 333;6.7, 41.6, 9.9, 41.8;18.2;59
+134;IZSM;de Martinis;Calabria;Cosenza;ITA.4.2_1;Roggiano Gravina;NA;NA;16.125;39.6;2024;November;BG-Sentinel;Field Adult;1;1;0;0;0;1;1;0;0;0;2111, 242;3.1, 96.9;17.68;44
+135;IZSM;de Martinis;Calabria;Cosenza;ITA.4.2_1;Rende;NA;NA;16.225;39.325;2024;November;BG-Sentinel;Field Adult;1;1;0;0;0;1;1;0;0;0;112, 112, 2111, 243;64.3, 1.4, 28.6, 5.7;15.49;520
+136;IZSM;de Martinis;Calabria;Cosenza;ITA.4.2_1;Rende;NA;NA;16.225;39.375;2024;November;BG-Sentinel;Field Adult;1;1;0;0;0;1;1;0;0;0;112, 2111, 242;36.4, 37.0, 26.6;15.49;346
+137;IZSM;de Martinis;Calabria;Cosenza;ITA.4.2_1;Dipignano;NA;NA;16.25;39.275;2024;November;BG-Sentinel;Field Adult;1;0;1;0;0.5;1;1;0;0;0;112, 223, 3112;66.1, 21.1, 12.8;15.49;343
+138;IZSM;de Martinis;Calabria;Cosenza;ITA.4.2_1;Cassano allo Ionio;NA;NA;16.475;39.75;2024;November;BG-Sentinel;Field Adult;2;1;0;1;0.5;2;2;0;0;0;2111, 242;68.0, 32.0;18.46;5
+139;IZSM;de Martinis;Calabria;Cosenza;ITA.4.2_1;Corigliano-Rossano;NA;NA;16.5;39.625;2024;October;BG-Sentinel;Field Adult;1;0;0;1;1;1;1;0;0;0;222, 223, 242;97.3, 0.1, 2.5;18.46;9
+140;IZSM;de Martinis;Calabria;Crotone;ITA.4.3_1;Rocca di Neto;NA;NA;17;39.175;2024;November;BG-Sentinel;Field Adult;1;0;1;0;0.5;1;1;0;0;0;121, 2111, 242, 242, 324, 331;30.0, 2.6, 31.3, 0.6, 18.7, 16.7;18.25;2
+141;IZSM;de Martinis;Calabria;Crotone;ITA.4.3_1;Crotone;NA;NA;17.1;39.125;2024;November;BG-Sentinel;Field Adult;1;1;0;0;0;1;1;0;0;0;121, 2111, 2111, 222, 242;31.1, 6.1, 4.4, 3.1, 55.3;18.25;32
+142;IZSM;de Martinis;Calabria;Crotone;ITA.4.3_1;Strongoli;NA;NA;17.125;39.225;2024;November;BG-Sentinel;Field Adult;1;0;1;0;0.5;1;1;0;0;0;2111, 2111, 222, 324;7.5, 50.2, 12.4, 29.8;20.06;1
+143;IZSM;de Martinis;Calabria;Crotone;ITA.4.3_1;Cir\95 Marina;NA;NA;17.15;39.4;2024;October;BG-Sentinel;Field Adult;1;1;0;0;0;1;1;0;0;0;2111, 3121, 331;43.3, 56.2, 0.5;20.05;1
+144;IZSM;de Martinis;Campania;Avellino;ITA.5.1_1;Mercogliano;NA;NA;14.75;40.925;2024;October;BG-Sentinel;Field Adult;28;12;1;15;0.554;28;28;0;0;0;111, 112, 222, 242;2.8, 25.1, 38.4, 33.8;16.19;463
+145;IZSM;de Martinis;Campania;Avellino;ITA.5.1_1;Grottolella;NA;NA;14.8;40.975;2024;October;BG-Sentinel;Field Adult;7;6;0;1;0.143;7;7;0;0;0;112, 222, 242, 243;12.5, 54.5, 1.5, 31.5;16.19;209
+146;IZSM;de Martinis;Campania;Benevento;ITA.5.2_1;Limatola;NA;NA;14.425;41.125;2024;September;BG-Sentinel;Field Adult;1;1;0;0;0;1;1;0;0;0;243, 3112;91.6, 8.4;16.96;12
+147;IZSM;de Martinis;Campania;Benevento;ITA.5.2_1;Torrecuso;NA;NA;14.675;41.2;2024;September;BG-Sentinel;Field Adult;7;7;0;0;0;7;7;0;0;0;241;100;15.56;23
+148;IZSM;de Martinis;Campania;Benevento;ITA.5.2_1;Benevento;NA;NA;14.75;41.125;2024;September;BG-Sentinel;Field Adult;1;0;1;0;0.5;1;1;0;0;0;112, 242, 242;56.1, 37.3, 6.6;16.19;736
+149;IZSM;de Martinis;Campania;Benevento;ITA.5.2_1;Benevento;NA;NA;14.825;41.125;2024;September;BG-Sentinel;Field Adult;1;0;1;0;0.5;1;1;0;0;0;121, 2111, 242;1.5, 2.3, 96.2;16.19;94
+150;IZSM;de Martinis;Campania;Caserta;ITA.5.3_1;San Marco Evangelista;NA;NA;14.35;41.05;2024;October;BG-Sentinel;Field Adult;30;25;5;0;0.083;30;30;0;0;0;111, 2111, 242;59.0, 40.7, 0.3;17.66;858
+151;IZSM;de Martinis;Campania;Napoli;ITA.5.4_1;Portici;NA;NA;14.35;40.825;2024;September;BG-Sentinel;Field Adult;30;25;4;1;0.1;30;30;0;0;0;111, 141;31.6, 68.4;18.73;3606
+152;IZSM;de Martinis;Campania;Salerno;ITA.5.5_1;Laureana Cilento;NA;NA;15;40.3;2024;November;BG-Sentinel;Field Adult;30;26;4;0;0.067;30;30;0;0;0;2111, 223, 242;15.8, 80.9, 3.3;18.43;11
+153;IZSLER;ELENA CARRA;Emilia Romagna;Bologna;ITA.6.1_1;Bologna;Urban;Public;11.325;44.525;2024;July;CDC-CO2;Field Adult;30;27;3;0;0.05;30;28;2;0;0.033;112;100;15.15;2874
+154;IZSLER;ELENA CARRA;Emilia Romagna;Ferrara;ITA.6.2_1;Ferrara;Urban;Public;11.6;44.85;2024;July;CDC-CO2;Field Adult;30;15;11;4;0.317;30;30;0;0;0;112, 121, 2111, 324;71.0, 12.4, 12.0, 4.6;15.27;1272
+155;IZSLER;ELENA CARRA;Emilia Romagna;Forli-Cesena;ITA.6.3_1;Forl\8D Cesena;Urban;Public;12.05;44.125;2024;July;CDC-CO2;Field Adult;30;23;5;2;0.15;30;30;0;0;0;112, 2111, 242;39.2, 16.4, 44.4;13.95;811
+156;IZSLER;ELENA CARRA;Emilia Romagna;Modena;ITA.6.4_1;Modena;Urban;Public;10.95;44.65;2024;July;CDC-CO2;Field Adult;30;27;2;1;0.067;30;30;0;0;0;112, 121, 142, 2111;4.9, 30.5, 63.8, 0.9;15.29;193
+157;IZSLER;ELENA CARRA;Emilia Romagna;Parma;ITA.6.5_1;Parma;Urban;Public;10.35;44.775;2024;July;CDC-CO2;Field Adult;30;17;4;9;0.367;29;29;0;0;0;112, 121;90.6, 9.4;14.64;3198
+158;IZSLER;ELENA CARRA;Emilia Romagna;Piacenza;ITA.6.6_1;Piacenza;Urban;Public;9.725;45.05;2024;July;CDC-CO2;Field Adult;30;19;11;0;0.183;30;30;0;0;0;121, 2111;91.3, 8.7;14.53;43
+159;IZSLER;ELENA CARRA;Lombardia;Cremona;ITA.6.6_1;Cremona;Peri-urban;Public;10;45.125;2024;August;CDC-CO2;Field Adult;38;32;5;1;0.092;38;38;0;0;0;112;100;15.23;1656
+160;IZSLER;ELENA CARRA;Emilia Romagna;Ravenna;ITA.6.7_1;Ravenna;Urban;Public;12.2;44.425;2024;July;CDC-CO2;Field Adult;30;14;15;1;0.283;30;30;0;0;0;111, 112;0.9, 99.1;16.35;2071
+161;IZSLER;ELENA CARRA;Emilia Romagna;Reggio Emilia;ITA.6.8_1;Reggio Emilia;Urban;Public;10.625;44.7;2024;July;CDC-CO2;Field Adult;29;28;1;0;0.017;30;30;0;0;0;112, 121;61.5, 38.5;14.78;748
+162;IZSLER;ELENA CARRA;Emilia Romagna;Rimini;ITA.6.9_1;Rimini;Urban;Public;12.525;44.075;2024;July;CDC-CO2;Field Adult;28;21;7;0;0.125;28;28;0;0;0;112, 121, 112;40.6, 27.9, 31.6;16;1847
+163;IZSVe;Federica Gobbo;Friuli-Venezia Giulia;Gorizia;ITA.7.1_1;Monfalcone;Peri-Urban;Private;13.55;45.775;2024;June;Ovitrap;Laboratory Adult;29;29;0;0;0;30;30;0;0;0;121, 123, 421, 523;8.8, 55.0, 12.8, 23.4;15.78;6
+164;IZSVe;Federica Gobbo;Friuli-Venezia Giulia;Pordenone;ITA.7.2_1;Cordenons;Rural;Private;12.675;45.975;2024;July;CDC Light Trap;Field Adult;31;30;1;0;0.016;7;7;0;0;0;112, 242;15.3, 84.7;13.99;34
+165;IZSVe;Federica Gobbo;Friuli-Venezia Giulia;Trieste;ITA.7.3_1;Trieste;Urban;Private;13.75;45.625;2024;July;BG-Sentinel;Field Adult;8;8;0;0;0;8;8;0;0;0;123, 523;22.5, 77.5;13.98;1
+166;IZSVe;Federica Gobbo;Friuli-Venezia Giulia;Trieste;ITA.7.3_1;Trieste;Urban;Private;13.75;45.65;2024;July;Ovitrap;Laboratory Adult;11;10;1;0;0.045;11;11;0;0;0;112, 123, 523;0.3, 66.8, 33.0;13.98;2
+167;IZSVe;Federica Gobbo;Friuli-Venezia Giulia;Trieste;ITA.7.3_1;Trieste;Urban;Private;13.775;45.65;2024;July;BG-Sentinel;Field Adult;9;6;3;0;0.167;9;9;0;0;0;111, 112, 123, 123, 523;24.1, 2.8, 8.6, 22.0, 42.5;13.98;711
+168;IZSVe;Federica Gobbo;Friuli-Venezia Giulia;Udine;ITA.7.4_1;Villa Santina;Rural;Public;12.925;46.425;2024;August;Larval Dip;Field Adult;18;17;1;0;0.028;9;9;0;0;0;112, 121, 324;89.5, 4.7, 5.8;8.6;488
+169;IZSVe;Federica Gobbo;Friuli-Venezia Giulia;Udine;ITA.7.4_1;Villa Santina;Rural;Public;12.95;46.4;2024;August;Ovitrap;Laboratory Adult;7;7;0;0;0;5;5;0;0;0;112, 231, 3122, 331;6.6, 61.9, 0.4, 31.0;8.6;15
+170;IZSVe;Federica Gobbo;Friuli-Venezia Giulia;Udine;ITA.7.4_1;Pavia di Udine;Rural;Public;13.3;46;2024;September;CDC Light Trap;Field Adult;7;7;0;0;0;1;1;0;0;0;2111;100;14.64;0
+171;IZSLT;Valeria Carioti;Lazio;Frosinone;ITA.8.1_1;Castro dei Volsci;NA;NA;13.4;41.5;2024;July;Reared Larvae;Laboratory Adult;7;7;0;0;0;10;10;0;0;0;242, 3112;77.5, 22.5;15.91;18
+172;IZSLT;Valeria Carioti;Lazio;Frosinone;ITA.8.1_1;Castro dei Volsci;NA;NA;13.4;41.525;2024;July;Reared Larvae;Laboratory Adult;20;20;0;0;0;6;6;0;0;0;112, 242, 3112;41.7, 56.7, 1.6;15.91;239
+173;IZSLT;Valeria Carioti;Lazio;Frosinone;ITA.8.1_1;Castro dei Volsci;NA;NA;13.45;41.525;2024;October;Aspirators;Field Adult;3;3;0;0;0;5;5;0;0;0;2111, 3112, 3211;65.4, 34.6, 0.0;15.91;13
+174;IZSLT;Valeria Carioti;Lazio;Frosinone;ITA.8.1_1;Sora;NA;NA;13.6;41.7;2024;September;CDC Light Trap;Field Adult;25;25;0;0;0;4;4;0;0;0;112, 2111, 242, 243;39.4, 3.3, 27.9, 29.4;13.7;256
+175;IZSLT;Ilaria Congiu;Lazio;Roma;ITA.8.2_1;Velletri;NA;NA;12.8;41.625;2023;June;CDC Light Trap;Field Adult;3;2;0;1;0.333;NA;NA;NA;NA;NA;222, 222, 242;13.0, 0.7, 86.3;16.93;72
+176;IZSLT;Valeria Carioti;Lazio;Latina;ITA.8.2_1;Terracina;NA;NA;13.225;41.3;2024;June;Reared Larvae;Laboratory Adult;31;28;3;0;0.048;NA;NA;NA;NA;NA;112, 121;9.6, 90.4;18.07;57
+177;IZSLT;Valeria Carioti;Lazio;Latina;ITA.8.2_1;Terracina;NA;NA;13.25;41.3;2023;June;Aspirators;Field Adult;69;55;11;3;0.123;67;67;0;0;0;111, 112, 3212;52.9, 38.3, 8.8;18.07;1867
+178;IZSLT;Valeria Carioti;Lazio;Rieti;ITA.8.3_1;Rieti;NA;NA;12.85;42.4;2024;October;Aspirators;Field Adult;32;31;0;1;0.031;30;30;0;0;0;111, 112, 2111;2.6, 97.3, 0.1;14.28;549
+179;IZSLT;Valeria Carioti;Lazio;Rieti;ITA.8.3_1;Rieti;NA;NA;12.875;42.4;2024;October;Aspirators;Field Adult;22;22;0;0;0;2;2;0;0;0;111, 112, 243, 3111, 3112;18.0, 48.9, 2.8, 18.5, 11.9;14.28;1074
+180;IZSLT;Valeria Carioti;Lazio;Rieti;ITA.8.3_1;Rieti;NA;NA;12.9;42.425;2024;September;Reared Larvae;Laboratory Adult;2;2;0;0;0;NA;NA;NA;NA;NA;121, 2111;64.4, 35.6;12.34;14
+181;IZSLT;Valeria Carioti;Lazio;Roma;ITA.8.4_1;Civitavecchia;NA;NA;11.775;42.1;2024;August;Aspirators;Field Adult;10;10;0;0;0;NA;NA;NA;NA;NA;121, 523;69.9, 30.1;18.12;7
+182;IZSLT;Ilaria Congiu;Lazio;Roma;ITA.8.4_1;Roma;NA;NA;12.325;41.875;2023;May;CDC Light Trap;Field Adult;3;3;0;0;0;NA;NA;NA;NA;NA;121, 2111;3.4, 96.6;18.2;2
+183;IZSLT;Ilaria Congiu;Lazio;Roma;ITA.8.4_1;Ardea;NA;NA;12.5;41.6;2023;June;Reared Larvae;Laboratory Adult;10;4;0;6;0.6;NA;NA;NA;NA;NA;112;100;18.51;688
+184;IZSLT;Ilaria Congiu;Lazio;Roma;ITA.8.4_1;Roma;NA;NA;12.575;41.875;2023;June;CDC Light Trap;Field Adult;5;2;1;2;0.5;NA;NA;NA;NA;NA;112, 2111;73.1, 26.9;17.5;2658
+185;IZSLT;Ilaria Congiu;Lazio;Roma;ITA.8.4_1;Roma;NA;NA;12.575;41.8;2023;June;Reared Larvae;Laboratory Adult;1;1;0;0;0;NA;NA;NA;NA;NA;124, 142, 2111;51.7, 18.4, 29.9;17.92;25
+186;IZSLT;Valeria Carioti;Lazio;Roma;ITA.8.4_1;Ciampino;NA;NA;12.6;41.8;2024;July;Reared Larvae;Laboratory Adult;22;18;4;0;0.091;21;21;0;0;0;111, 124;57.7, 42.3;17.92;2797
+187;IZSLT;Ilaria Congiu;Lazio;Roma;ITA.8.4_1;Roma;NA;NA;12.675;41.925;2023;June;CDC Light Trap;Field Adult;7;6;1;0;0.071;NA;NA;NA;NA;NA;112, 121, 122, 2111;31.2, 29.8, 14.5, 24.5;16.39;270
+188;UNISAP;Verena Pichler;Lazio;Roma;ITA.8.4_1;Roma;Urban;Public;12.447;41.908;2024;May-October;Sticky Trap;Field Adult;66;24;24;18;0.45;NA;NA;NA;NA;NA;111, 133;94.5, 5.5;17.5;7043
+189;UNISAP;Verena Pichler;Lazio;Roma;ITA.8.4_1;Roma;Urban;Public;12.475;41.917;2024;May-October;Sticky Trap;Field Adult;68;35;21;12;0.33;30;30;0;0;0;111, 112, 141, 511;59.4, 19.0, 20.4, 1.3;17.5;661
+190;UNISAP;Verena Pichler;Lazio;Roma;ITA.8.4_1;Roma;Urban;Public;12.078;41.95;2024;May-October;Sticky Trap;Field Adult;63;16;28;19;0.52;30;30;0;0;0;111;100;18:09:00;4640
+191;UNISAP;Verena Pichler;Lazio;Roma;ITA.8.4_1;Roma;Urban;Public;12.396;41.883;2024;May-October;Sticky Trap;Field Adult;72;32;23;17;0.4;NA;NA;NA;NA;NA;112, 121, 2111;30.3, 46.9, 22.8;17.5;97
+192;UNISAP;Verena Pichler;Lazio;Roma;ITA.8.4_1;Roma;Urban;Public;12.457;41.896;2024;May-October;Sticky Trap;Field Adult;74;31;30;13;0.38;30;30;0;0;0;111, 141;72.6, 27.4;17.5;1972
+193;IZSLT;Valeria Carioti;Lazio;Roma;ITA.8.4_1;Colleferro;NA;NA;13;41.75;2024;August;Reared Larvae;Laboratory Adult;14;14;0;0;0;14;14;0;0;0;121, 2111, 243;57.4, 9.6, 33.0;15.46;0
+194;IZSLT;Valeria Carioti;Lazio;Viterbo;ITA.8.5_1;Tarquinia;Urban;NA;11.75;42.25;2024;October;Aspirators;Field Adult;71;33;26;12;0.352;53;53;0;0;0;112, 2111;98.5, 1.5;17.56;1815
+195;IZSPLV;CORONA;Liguria;Genova;ITA.9.1_1;Genova;Peri-Urban;Public;8.925;44.425;2024;September;BG-Sentinel;Field Adult;32;32;0;0;0;32;32;0;0;0;112, 3132, 324, 324;10.8, 79.4, 0.3, 9.5;13.74;562
+196;IZSPLV;CORONA;Liguria;Imperia;ITA.9.2_1;Imperia;Urban;Public;8.025;43.875;2024;August;BG-Sentinel;Field Adult;18;18;0;0;0;16;16;0;0;0;123, 523;23.3, 76.7;14.15;2
+197;IZSPLV;CORONA;Liguria;Spezia;ITA.9.3_1;La Spezia;Urban;Public;9.825;44.1;2024;September;BG-Sentinel;Field Adult;5;5;0;0;0;5;5;0;0;0;123, 523;63.9, 36.1;17.71;0
+198;IZSPLV;CORONA;Liguria;Spezia;ITA.9.4_1;Savona;Urban;Public;8.475;44.3;2024;August;BG-Sentinel;Field Adult;2;2;0;0;0;1;1;0;0;0;111, 523;22.1, 77.9;15.87;265
