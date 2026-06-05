@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "De Marco"
+  given-names: "Carlo Maria"
+  orcid: "https://orcid.org/0000-0002-8657-3832"
+title: "irdash"
+version: 1.0.0
+date-released: 2026-06-05
+url: "https://github.com/randomxsk8/irdash"
